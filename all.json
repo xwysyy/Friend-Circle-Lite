@@ -3,8 +3,8 @@
     "friends_num": 66,
     "active_num": 47,
     "error_num": 19,
-    "article_num": 190,
-    "last_updated_time": "2024-08-06 09:19:32"
+    "article_num": 191,
+    "last_updated_time": "2024-08-06 14:28:05"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://zxz.ee/241.html",
       "author": "小言u博客",
       "avatar": "https://zxz.ee/touxiang.png"
+    },
+    {
+      "title": "Argon-Theme语法",
+      "created": "2024-08-06 12:39",
+      "link": "https://blog.karltan.com/notes-out-class/argon-theme-syntax/",
+      "author": "Karl的博客",
+      "avatar": "https://img.karltan.com/logo.png"
     },
     {
       "title": "【说说】被线下手机维修店乱要价吓晕",
@@ -90,6 +97,13 @@
       "link": "https://aiccrop.com/post/2024/blue-archive-gacha-luck-turns-around/",
       "author": "CircleCrop Blog",
       "avatar": "https://aiccrop.com/api/head"
+    },
+    {
+      "title": "【短文】-彼时故城皆繁华",
+      "created": "2024-08-04 15:07",
+      "link": "http://blog.awaae001.top/posts/2042429.html",
+      "author": "呓语梦轩",
+      "avatar": "https://blog.awaae001.top/ico.jpg"
     },
     {
       "title": "站点开发手记（3）",
@@ -713,13 +727,6 @@
       "link": "https://blog.yuanpei.me/posts/everything-you-need-to-know-about-streaming-with-chatgpt/",
       "author": "元培·元视角",
       "avatar": "https://blog.yuanpei.me/imgs/avatar.jpg"
-    },
-    {
-      "title": "友链区JavaScript组件-重做版",
-      "created": "2024-06-02 14:53",
-      "link": "http://blog.awaae001.top/posts/52004.html",
-      "author": "呓语梦轩",
-      "avatar": "https://blog.awaae001.top/ico.jpg"
     },
     {
       "title": "资中筠：休将明月照沟渠，莫与脑残争高低",
