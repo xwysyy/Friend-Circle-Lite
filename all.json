@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 66,
-    "active_num": 47,
-    "error_num": 19,
-    "article_num": 191,
-    "last_updated_time": "2024-08-06 20:36:09"
+    "active_num": 48,
+    "error_num": 18,
+    "article_num": 196,
+    "last_updated_time": "2024-08-07 02:25:19"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://imqi1.com/note/392",
       "author": "ImQi1",
       "avatar": "https://imqi1.com/avatar.webp"
+    },
+    {
+      "title": "Docker部署Outline并使用GitHub作为SSO服务",
+      "created": "2024-08-06 21:45",
+      "link": "https://tkgso.fun/posts/150.html",
+      "author": "Mikuの次行星",
+      "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
     },
     {
       "title": "Redmi G Pro 游戏本 2024 使用体验",
@@ -309,13 +316,6 @@
       "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
     },
     {
-      "title": "2024年了，我为什么在自建博客？",
-      "created": "2024-07-23 20:28",
-      "link": "https://tkgso.fun/posts/62.html",
-      "author": "Mikuの次行星",
-      "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
-    },
-    {
       "title": "密码保护：2024年工作经验",
       "created": "2024-07-23 18:06",
       "link": "https://iicats.com/1327/",
@@ -398,6 +398,13 @@
       "link": "https://dusays.com/729/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "aria2",
+      "created": "2024-07-19 23:10",
+      "link": "https://xxu.do/posts/geek/aria2",
+      "author": "Jayden",
+      "avatar": "https://github.com/Jaaayden.png"
     },
     {
       "title": "Semantic Kernel 视角下的 Text2SQL 实践与思考",
@@ -624,6 +631,13 @@
       "avatar": "https://aiccrop.com/api/head"
     },
     {
+      "title": "Color Protein Model by Sequence Conservation with ConSurf",
+      "created": "2024-06-20 19:35",
+      "link": "https://xxu.do/posts/structure/Color-the-model-by-sequence-conservation-with-ConSurf",
+      "author": "Jayden",
+      "avatar": "https://github.com/Jaaayden.png"
+    },
+    {
       "title": "我的一些胡言乱语",
       "created": "2024-06-20 12:55",
       "link": "https://mnchen.cn/posts/1008.html",
@@ -715,6 +729,13 @@
       "avatar": "https://bu.dusays.com/2024/06/12/6669abc539646.jpg"
     },
     {
+      "title": "Build Models for cryo-EM Maps with ModelAngelo",
+      "created": "2024-06-09 12:38",
+      "link": "https://xxu.do/posts/structure/Build-Models-for-cryo-EM-Maps-with-ModelAngelo",
+      "author": "Jayden",
+      "avatar": "https://github.com/Jaaayden.png"
+    },
+    {
       "title": "hexo + github-action持续集成",
       "created": "2024-06-07 17:18",
       "link": "http://blog.awaae001.top/posts/26785.html",
@@ -741,6 +762,20 @@
       "link": "https://www.coollee.cn/archives/152/",
       "author": "清风博客",
       "avatar": "https://www.coollee.cn/favicon.ico"
+    },
+    {
+      "title": "XDS Installation Issue on arm64 Mac",
+      "created": "2024-05-25 20:31",
+      "link": "https://xxu.do/posts/structure/XDS-Installation-Issue-on-arm64-Mac",
+      "author": "Jayden",
+      "avatar": "https://github.com/Jaaayden.png"
+    },
+    {
+      "title": "Deploy X-Ray Data Process Software on Linux",
+      "created": "2024-05-25 17:45",
+      "link": "https://xxu.do/posts/structure/Deploy-X-Ray-Data-Process-Software-on-Linux",
+      "author": "Jayden",
+      "avatar": "https://github.com/Jaaayden.png"
     },
     {
       "title": "从抖音看见世界的参差",
