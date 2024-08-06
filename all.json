@@ -4,9 +4,16 @@
     "active_num": 47,
     "error_num": 19,
     "article_num": 190,
-    "last_updated_time": "2024-08-06 02:26:15"
+    "last_updated_time": "2024-08-06 09:19:32"
   },
   "article_data": [
+    {
+      "title": "Redmi G Pro 游戏本 2024 使用体验",
+      "created": "2024-08-06 16:26",
+      "link": "https://zxz.ee/241.html",
+      "author": "小言u博客",
+      "avatar": "https://zxz.ee/touxiang.png"
+    },
     {
       "title": "【说说】被线下手机维修店乱要价吓晕",
       "created": "2024-08-06 05:01",
@@ -16,7 +23,7 @@
     },
     {
       "title": "世界，您好！",
-      "created": "2024-08-06 02:05",
+      "created": "2024-08-06 02:45",
       "link": "https://blog.karltan.com/uncategorized/hello-world/",
       "author": "Karl的博客",
       "avatar": "https://img.karltan.com/logo.png"
@@ -692,13 +699,6 @@
       "link": "https://agen233.top/posts/b8ae5ec7/",
       "author": "御枫林下的小站",
       "avatar": "https://bu.dusays.com/2024/06/12/6669abc539646.jpg"
-    },
-    {
-      "title": "日记-六月八日",
-      "created": "2024-06-08 16:28",
-      "link": "https://zxz.ee/236.html",
-      "author": "小言u博客",
-      "avatar": "https://zxz.ee/touxiang.png"
     },
     {
       "title": "hexo + github-action持续集成",
