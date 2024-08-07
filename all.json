@@ -4,9 +4,16 @@
     "active_num": 48,
     "error_num": 18,
     "article_num": 196,
-    "last_updated_time": "2024-08-07 09:18:55"
+    "last_updated_time": "2024-08-07 14:25:28"
   },
   "article_data": [
+    {
+      "title": "在群晖NAS上安装Git Server",
+      "created": "2024-08-07 17:19",
+      "link": "https://liuyude.com/archives/install-git-server-on-synology-nas.html",
+      "author": "慧行说",
+      "avatar": "https://liuyude.com/logo"
+    },
     {
       "title": "关于本站点的浏览体验有奖调查",
       "created": "2024-08-07 02:43",
@@ -20,6 +27,13 @@
       "link": "https://tkgso.fun/posts/150.html",
       "author": "Mikuの次行星",
       "avatar": "https://cravatar.cn/avatar/ba76faef3cc8252bd0433b3515124389?s=512"
+    },
+    {
+      "title": "在Mac上使用CosyVoice教程：人声克隆，跨语种复刻、AITTS文本转语音",
+      "created": "2024-08-06 18:40",
+      "link": "https://blog.zhheo.com/p/e950.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "Redmi G Pro 游戏本 2024 使用体验",
@@ -300,13 +314,6 @@
       "link": "https://blog.bsgun.cn/posts/609bcdb9/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "如何更改Mac上左上角的苹果图标样式，个性化自定义Mac美化菜单栏",
-      "created": "2024-07-24 17:07",
-      "link": "https://blog.zhheo.com/p/a61a.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "哎呦，又在买IDC的便宜服务器了啊？",
@@ -874,13 +881,6 @@
       "link": "https://www.meilyn.top/skypoint-0402/",
       "author": "又见梅林",
       "avatar": "https://cdn.meilyn.top/logo/logo-d.png"
-    },
-    {
-      "title": "春日轨迹：债、病与歌声中的四月",
-      "created": "2024-04-29 19:29",
-      "link": "https://liuyude.com/archives/tracks-april-in-debt-sickness-song.html",
-      "author": "慧行说",
-      "avatar": "https://liuyude.com/logo"
     },
     {
       "title": "MLY数字出版 · 2024-03",
