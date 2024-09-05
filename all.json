@@ -3,8 +3,8 @@
     "friends_num": 87,
     "active_num": 70,
     "error_num": 17,
-    "article_num": 314,
-    "last_updated_time": "2024-09-05 14:28:15"
+    "article_num": 319,
+    "last_updated_time": "2024-09-05 20:37:54"
   },
   "article_data": [
     {
@@ -27,6 +27,13 @@
       "link": "https://koxiuqiu.cn/2024/9y5d1/",
       "author": "朽丘博",
       "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
+    },
+    {
+      "title": "Mac关闭耳机线控，关闭键盘的媒体控制，线控启动Apple Music功能",
+      "created": "2024-09-05 15:15",
+      "link": "https://blog.zhheo.com/p/13e3.html",
+      "author": "张洪Heo",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
     },
     {
       "title": "THYUU星度主题相关问题、优化和新增进度（20240905）",
@@ -246,13 +253,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af3198042a2.webp"
     },
     {
-      "title": "在Mac上实现视频语音文本转srt字幕，如何搭建Funclip的AI剪辑",
-      "created": "2024-08-28 18:32",
-      "link": "https://blog.zhheo.com/p/e96e.html",
-      "author": "张洪Heo",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
-    },
-    {
       "title": "【刷题必看】SQL 写题技巧积累",
       "created": "2024-08-28 16:37",
       "link": "https://uuanqin.top/p/12bc4bc9/",
@@ -395,7 +395,7 @@
     {
       "title": "动态地球仪",
       "created": "2024-08-25 01:50",
-      "link": "https://www.yvii.cn/archives/2028.html",
+      "link": "https://www.yviii.com/archives/2028.html",
       "author": "乙未博客",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f05e2f75c.png"
     },
@@ -423,7 +423,7 @@
     {
       "title": "恶意盗刷CDN流量IP黑名单",
       "created": "2024-08-24 00:24",
-      "link": "https://www.yvii.cn/archives/2027.html",
+      "link": "https://www.yviii.com/archives/2027.html",
       "author": "乙未博客",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f05e2f75c.png"
     },
@@ -920,7 +920,7 @@
     {
       "title": "typecho热力图插件",
       "created": "2024-07-27 00:13",
-      "link": "https://www.yvii.cn/archives/2025.html",
+      "link": "https://www.yviii.com/archives/2025.html",
       "author": "乙未博客",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f05e2f75c.png"
     },
@@ -1123,14 +1123,14 @@
     {
       "title": "在北海道做了一场不愿醒来的梦",
       "created": "2024-07-03 15:21",
-      "link": "https://www.yvii.cn/archives/2024.html",
+      "link": "https://www.yviii.com/archives/2024.html",
       "author": "乙未博客",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f05e2f75c.png"
     },
     {
       "title": "给 Typecho 默认自带模板增加宽度",
       "created": "2024-07-02 17:18",
-      "link": "https://www.yvii.cn/archives/2018.html",
+      "link": "https://www.yviii.com/archives/2018.html",
       "author": "乙未博客",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f05e2f75c.png"
     },
@@ -1527,6 +1527,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/31/66090bfe06ba6.png"
     },
     {
+      "title": "5月上旬",
+      "created": "2024-05-12 22:01",
+      "link": "https://flytusky.top/archives/141/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
+    },
+    {
       "title": "5月12日 随笔",
       "created": "2024-05-12 04:14",
       "link": "https://blog.xsot.cn/archives/note-24-05-12.html",
@@ -1625,11 +1632,25 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
     },
     {
+      "title": "2024-4-20:The bad weather in GuangDong but something wonderful in school",
+      "created": "2024-04-21 19:21",
+      "link": "https://flytusky.top/archives/139/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
+    },
+    {
       "title": "一文让你理解网络阻塞与非阻塞和多路io复用",
       "created": "2024-04-21 17:55",
       "link": "https://huanxueblog.top/posts/a8fad53.html",
       "author": "幻雪博客",
       "avatar": "https://cdn.qyliu.top/i/2024/03/31/66090bfe06ba6.png"
+    },
+    {
+      "title": "万有引力定律与航空航天",
+      "created": "2024-04-21 06:16",
+      "link": "https://flytusky.top/archives/135/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "探秘米哈游技术进步：《绝区零》三测体验",
@@ -1763,6 +1784,20 @@
       "link": "https://dongjunke.cn/posts/2024/04/06/52154.html",
       "author": "东评西就",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
+    },
+    {
+      "title": "推荐一下维他命图床",
+      "created": "2024-04-06 01:14",
+      "link": "https://flytusky.top/archives/132/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
+    },
+    {
+      "title": "月考一的思考与感悟",
+      "created": "2024-04-05 18:12",
+      "link": "https://flytusky.top/archives/131/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "免费安装杜比全景声",
