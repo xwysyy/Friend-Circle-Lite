@@ -1,12 +1,19 @@
 {
   "statistical_data": {
-    "friends_num": 89,
-    "active_num": 68,
-    "error_num": 21,
-    "article_num": 309,
-    "last_updated_time": "2024-09-19 09:25:44"
+    "friends_num": 88,
+    "active_num": 69,
+    "error_num": 19,
+    "article_num": 311,
+    "last_updated_time": "2024-09-19 14:27:50"
   },
   "article_data": [
+    {
+      "title": "Macos Sequoia 15 电脑没有苹方字体，苹方无法下载解决方法",
+      "created": "2024-09-19 11:37",
+      "link": "https://blog.zhheo.com/p/8e67.html",
+      "author": "张洪Heo",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
+    },
     {
       "title": "用Python制作计算器",
       "created": "2024-09-18 21:21",
@@ -38,7 +45,7 @@
     {
       "title": "Arch Linux + Windows 11 双系统硬盘迁移超级踩坑记",
       "created": "2024-09-18 10:02",
-      "link": "https://blognext.yaria.top/posts/c0z8jdo2",
+      "link": "https://blog.yaria.top/posts/c0z8jdo2",
       "author": "Ariasaka",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f40b65114.png"
     },
@@ -211,7 +218,7 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
     },
     {
-      "title": "求推荐可靠的海外服务器",
+      "title": "求推荐可靠海外服务器",
       "created": "2024-09-10 17:40",
       "link": "https://qq.mba/183.html",
       "author": "满心记",
@@ -332,9 +339,16 @@
     {
       "title": "今日无事，但回首往事",
       "created": "2024-09-06 11:04",
-      "link": "https://blognext.yaria.top/posts/7c13269c",
+      "link": "https://blog.yaria.top/posts/7c13269c",
       "author": "Ariasaka",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f40b65114.png"
+    },
+    {
+      "title": "别人不了解你的时候，你又何必在意他对你的评价",
+      "created": "2024-09-06 00:00",
+      "link": "https://blog.everfu.cn/p/334b14c7.html",
+      "author": "Efu",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
     {
       "title": "Hexo博客私有部署Twikoo评论系统并迁移评论记录",
@@ -342,6 +356,13 @@
       "link": "http://blog.gzzz.pro/posts/8ad6bb21/",
       "author": "GZZZ",
       "avatar": "https://cdn.qyliu.top/i/2024/08/05/66b07b620cd9e.webp"
+    },
+    {
+      "title": "如何申请港澳往来通行证",
+      "created": "2024-09-05 22:47",
+      "link": "https://blog.everfu.cn/p/8e95c705.html",
+      "author": "Efu",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
     {
       "title": "醍醐灌顶",
@@ -430,7 +451,7 @@
     {
       "title": "新篇章：Next.js迁移小记",
       "created": "2024-09-03 13:09",
-      "link": "https://blognext.yaria.top/posts/dka7xhko",
+      "link": "https://blog.yaria.top/posts/dka7xhko",
       "author": "Ariasaka",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f40b65114.png"
     },
@@ -559,13 +580,6 @@
       "link": "https://h.liyy.us.kg/2024/08/31/cf-words/",
       "author": "茗辰原",
       "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
-    },
-    {
-      "title": "感冒了怎么办？流鼻涕、鼻炎纸巾推荐：洁柔乳霜纸",
-      "created": "2024-08-30 11:46",
-      "link": "https://blog.zhheo.com/p/6ccd.html",
-      "author": "张洪Heo",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
     },
     {
       "title": "关于主题的一些魔改",
@@ -988,13 +1002,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/31/66097a6d9363f.png"
     },
     {
-      "title": "Python实战项目：外星人入侵（源码分享）",
-      "created": "2024-08-02 14:33",
-      "link": "https://blog.wenjing.xin/archives/mK0pfmcB",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
-    },
-    {
       "title": "人没逝，感谢关心（咬牙切齿）",
       "created": "2024-08-01 18:46",
       "link": "https://blog.leonus.cn/2024/alive.html",
@@ -1135,13 +1142,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/07/07/668a9e330dc6a.webp"
     },
     {
-      "title": "theme-hao主题适配友链自助提交插件",
-      "created": "2024-07-21 09:30",
-      "link": "https://blog.wenjing.xin/archives/xMlRKBEd",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
-    },
-    {
       "title": "我为下一届辩论新生留下的文字",
       "created": "2024-07-19 05:42",
       "link": "https://blog.alenliu.space/p/%E6%88%91%E4%B8%BA%E4%B8%8B%E4%B8%80%E5%B1%8A%E8%BE%A9%E8%AE%BA%E6%96%B0%E7%94%9F%E7%95%99%E4%B8%8B%E7%9A%84%E6%96%87%E5%AD%97/",
@@ -1156,25 +1156,11 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66595f03d46be.png"
     },
     {
-      "title": "plugin-artalk 插件保姆级使用教程",
-      "created": "2024-07-18 23:42",
-      "link": "https://blog.wenjing.xin/archives/DV1kKzJX",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
-    },
-    {
       "title": "2024版IDEA终端无法打开",
       "created": "2024-07-18 06:45",
       "link": "https://blog.june-pj.cn/posts/638470e5/",
       "author": "June",
       "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc5b18a2574.png"
-    },
-    {
-      "title": "plugin-blog-hao 插件部分功能演示",
-      "created": "2024-07-17 19:03",
-      "link": "https://blog.wenjing.xin/archives/nhqdbrBO",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
     },
     {
       "title": "最近折腾群晖那点事",
@@ -1189,13 +1175,6 @@
       "link": "https://yuuu.org/post/43443.html",
       "author": "微霞",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116f0fe045d.png"
-    },
-    {
-      "title": "halo 插件开发中的一些踩坑记录",
-      "created": "2024-07-10 14:52",
-      "link": "https://blog.wenjing.xin/archives/sl9ZmDTr",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
     },
     {
       "title": "博客整改记:盘点这一周的博客变化",
@@ -1270,7 +1249,7 @@
     {
       "title": "博客二周年祭——为什么会变成这样呢？",
       "created": "2024-07-02 10:22",
-      "link": "https://blognext.yaria.top/posts/a12c6b5d",
+      "link": "https://blog.yaria.top/posts/a12c6b5d",
       "author": "Ariasaka",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f40b65114.png"
     },
@@ -1851,7 +1830,7 @@
     {
       "title": "如何在RK系开发板的linux冷门内核上编译CH340驱动",
       "created": "2024-03-15 16:34",
-      "link": "https://blognext.yaria.top/posts/dad8e69b",
+      "link": "https://blog.yaria.top/posts/dad8e69b",
       "author": "Ariasaka",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f40b65114.png"
     },
@@ -2101,11 +2080,46 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
     },
     {
+      "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
+      "created": "2023-08-27 19:22",
+      "link": "https://blog.anheyu.com/posts/340b.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
+      "created": "2023-08-26 19:24",
+      "link": "https://blog.anheyu.com/posts/136a.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
+      "created": "2023-08-19 18:42",
+      "link": "https://blog.anheyu.com/posts/8105.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
+      "created": "2023-08-18 19:24",
+      "link": "https://blog.anheyu.com/posts/4eb4.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
       "title": "Swpp Backends 官方文档",
       "created": "2023-08-09 16:18",
       "link": "https://kmar.top/posts/b70ec88f/",
       "author": "山岳库博",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116c3ba58c3.png"
+    },
+    {
+      "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
+      "created": "2023-07-23 17:55",
+      "link": "https://blog.anheyu.com/posts/40fd.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
     },
     {
       "title": "hexo备份",
