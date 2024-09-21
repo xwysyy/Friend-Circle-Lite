@@ -1,25 +1,18 @@
 {
   "statistical_data": {
     "friends_num": 90,
-    "active_num": 68,
-    "error_num": 22,
-    "article_num": 307,
-    "last_updated_time": "2024-09-21 02:26:58"
+    "active_num": 69,
+    "error_num": 21,
+    "article_num": 311,
+    "last_updated_time": "2024-09-21 09:24:30"
   },
   "article_data": [
     {
-      "title": "分享两个Twikoo邮件通知模板",
-      "created": "2024-09-21 08:16",
+      "title": "Twikoo邮件通知模板分享",
+      "created": "2024-09-21 06:16",
       "link": "https://blog.bsgun.cn/posts/9a5bb761/",
       "author": "梦爱吃鱼",
       "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
-    },
-    {
-      "title": "Duplicati 强大的开源备份工具",
-      "created": "2024-09-21 00:00",
-      "link": "https://dusays.com/750/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "龟龟去世了一只",
@@ -197,13 +190,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
-      "title": "Mac 实用 Brew 搭建 PHP开发环境",
-      "created": "2024-09-16 00:00",
-      "link": "https://blog.everfu.cn/p/2568de27.html",
-      "author": "Efu",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
-    },
-    {
       "title": "免费引入商用黑体字体系列整理及 CSS 字体引入亲妈式教程（20240915更新）",
       "created": "2024-09-15 20:50",
       "link": "https://www.thyuu.com/62610",
@@ -251,6 +237,13 @@
       "link": "https://blog.ciraos.top/p/bee08b52/",
       "author": "葱苓sama",
       "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
+    },
+    {
+      "title": "阴阳师八周年活动-非酋的自我修养记录",
+      "created": "2024-09-12 16:30",
+      "link": "https://www.gan1ser.top/post/4bfe597f.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
     },
     {
       "title": "买椟还珠",
@@ -701,6 +694,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
     },
     {
+      "title": "使用 Docker 自托管 VS Code 网页版",
+      "created": "2024-08-28 00:00",
+      "link": "https://dusays.com/742/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
+    },
+    {
       "title": "读速 7000 的 2T 固态只卖 599，当游戏盘真香",
       "created": "2024-08-27 21:31",
       "link": "https://www.imaegoo.com/2024/hv3000-ssd/",
@@ -1051,6 +1051,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/30/660769346d538.jpg"
     },
     {
+      "title": "Serv00部署Memos",
+      "created": "2024-08-03 19:23",
+      "link": "https://www.gan1ser.top/post/6a236522.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "真·彩虹猫加载动画",
       "created": "2024-08-03 01:12",
       "link": "https://blog.sinzmise.top/posts/46640/",
@@ -1289,6 +1296,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
     },
     {
+      "title": "信盈达实习记录",
+      "created": "2024-07-07 17:13",
+      "link": "https://www.gan1ser.top/post/754a429b.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "使用action+gh_issue_api完成订阅功能",
       "created": "2024-07-04 15:50",
       "link": "https://hexo.shangskr.top/posts/24.html",
@@ -1359,6 +1373,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
     },
     {
+      "title": "数字信号的2FSK调制与解调",
+      "created": "2024-06-27 04:13",
+      "link": "https://www.gan1ser.top/post/b9a95f5e.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "商家店铺简单实现扫一扫连接WiFi",
       "created": "2024-06-26 10:57",
       "link": "https://www.lyszm.com/917.html",
@@ -1371,6 +1392,13 @@
       "link": "https://gyhwd.top/archives/r7KuiUyM",
       "author": "青竹小轩",
       "avatar": "https://cdn.qyliu.top/i/2024/04/23/662748990165a.png"
+    },
+    {
+      "title": "OFDM学习过程及仿真",
+      "created": "2024-06-23 20:07",
+      "link": "https://www.gan1ser.top/post/ab4c01cf.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
     },
     {
       "title": "Cloudreve捐助版Docker部署指南",
