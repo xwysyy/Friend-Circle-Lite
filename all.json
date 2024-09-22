@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 90,
-    "active_num": 69,
-    "error_num": 21,
-    "article_num": 312,
-    "last_updated_time": "2024-09-22 14:26:36"
+    "active_num": 70,
+    "error_num": 20,
+    "article_num": 317,
+    "last_updated_time": "2024-09-22 20:35:57"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://blog.zhwei101.com/index.php/archives/576/",
       "author": "ZHI-BLOG",
       "avatar": "https://cdn.qyliu.top/i/2024/06/01/665a9a8f8418a.png"
+    },
+    {
+      "title": "月度随笔|2024-08&09",
+      "created": "2024-09-22 08:00",
+      "link": "https://blog.xing-ye.top/posts/9edcc8c/",
+      "author": "XINGYE",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/18/6648b84c682e1.png"
     },
     {
       "title": "【刷题日记】学会前后缀分解，就能从「连续子数组」打到「接雨水」",
@@ -234,7 +241,7 @@
     {
       "title": "Mac 实用 Brew 搭建 PHP开发环境",
       "created": "2024-09-16 00:00",
-      "link": "https://everfu.cn/p/2568de27.html",
+      "link": "https://blog.everfu.cn/p/2568de27.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -493,7 +500,7 @@
     {
       "title": "别人不了解你的时候，你又何必在意他对你的评价",
       "created": "2024-09-06 00:00",
-      "link": "https://everfu.cn/p/334b14c7.html",
+      "link": "https://blog.everfu.cn/p/334b14c7.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -507,7 +514,7 @@
     {
       "title": "如何申请港澳往来通行证",
       "created": "2024-09-05 22:47",
-      "link": "https://everfu.cn/p/8e95c705.html",
+      "link": "https://blog.everfu.cn/p/8e95c705.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -958,13 +965,6 @@
       "link": "https://blog.hesiy.cn/posts/xiaomi-router-advanced-usage/",
       "author": "FloatSheep",
       "avatar": "https://cdn.qyliu.top/i/2024/07/28/66a6324891ba1.webp"
-    },
-    {
-      "title": "电影《默杀》可能是今年度影片黑马？！",
-      "created": "2024-08-12 20:30",
-      "link": "https://blog.imoyan.top/posts/mosha.html",
-      "author": "陌颜Hao",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af3318f1d1c.webp"
     },
     {
       "title": "从零开始制作一个Butterfly主题",
@@ -1541,13 +1541,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/28/66ced0341401e.webp"
     },
     {
-      "title": "《福格行为模型》全书随记",
-      "created": "2024-06-03 08:00",
-      "link": "https://blog.xing-ye.top/posts/1a6413b1/",
-      "author": "XINGYE",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/18/6648b84c682e1.png"
-    },
-    {
       "title": "2024-05小记",
       "created": "2024-05-27 05:18",
       "link": "https://blog.sinzmise.top/posts/10021/",
@@ -2122,11 +2115,46 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
     },
     {
+      "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
+      "created": "2023-08-27 19:22",
+      "link": "https://blog.anheyu.com/posts/340b.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
+      "created": "2023-08-26 19:24",
+      "link": "https://blog.anheyu.com/posts/136a.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
+      "created": "2023-08-19 18:42",
+      "link": "https://blog.anheyu.com/posts/8105.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
+      "created": "2023-08-18 19:24",
+      "link": "https://blog.anheyu.com/posts/4eb4.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
       "title": "Swpp Backends 官方文档",
       "created": "2023-08-09 16:18",
       "link": "https://kmar.top/posts/b70ec88f/",
       "author": "山岳库博",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116c3ba58c3.png"
+    },
+    {
+      "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
+      "created": "2023-07-23 17:55",
+      "link": "https://blog.anheyu.com/posts/40fd.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
     },
     {
       "title": "hexo备份",
@@ -2188,6 +2216,13 @@
       "title": "运维常用指南",
       "created": "2022-11-14 09:35",
       "link": "https://blog.imoyan.top/posts/c095.html",
+      "author": "陌颜Hao",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af3318f1d1c.webp"
+    },
+    {
+      "title": "光棍节心情随笔",
+      "created": "2022-11-11 20:11",
+      "link": "https://blog.imoyan.top/posts/5f2e.html",
       "author": "陌颜Hao",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af3318f1d1c.webp"
     }
