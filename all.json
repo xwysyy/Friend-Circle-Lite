@@ -1,12 +1,19 @@
 {
   "statistical_data": {
-    "friends_num": 90,
-    "active_num": 70,
+    "friends_num": 91,
+    "active_num": 71,
     "error_num": 20,
-    "article_num": 317,
-    "last_updated_time": "2024-09-23 20:39:28"
+    "article_num": 322,
+    "last_updated_time": "2024-09-24 02:27:37"
   },
   "article_data": [
+    {
+      "title": "QQ音乐加密格式解密",
+      "created": "2024-09-23 19:05",
+      "link": "http://blog.quenan.love/posts/cf1fb2ee/",
+      "author": "鹊楠",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
+    },
     {
       "title": "iOS18的设计规范：iPhone16系列设计尺寸、设备分辨率",
       "created": "2024-09-23 18:04",
@@ -83,6 +90,13 @@
       "link": "https://talen.top/posts/524712c3/",
       "author": "M.Talen",
       "avatar": "https://cdn.qyliu.top/i/2024/05/23/664eda97bdec6.png"
+    },
+    {
+      "title": "甲辰年 癸酉月 丙戌日随笔",
+      "created": "2024-09-19 23:59",
+      "link": "https://efterklang.github.io/Essay/Travel/24-09-19/",
+      "author": "GnixAij",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
       "title": "前端人的 Python、Conda 环境搭建",
@@ -234,7 +248,7 @@
     {
       "title": "Mac 实用 Brew 搭建 PHP开发环境",
       "created": "2024-09-16 00:00",
-      "link": "https://blog.everfu.cn/p/2568de27.html",
+      "link": "https://everfu.cn/p/2568de27.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -274,6 +288,20 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
     },
     {
+      "title": "Navidrome 自托管的开源音乐服务器",
+      "created": "2024-09-15 00:00",
+      "link": "https://dusays.com/748/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
+    },
+    {
+      "title": "Remove \"#\" in MD Outline",
+      "created": "2024-09-14 19:47",
+      "link": "https://efterklang.github.io/Dev/VSCode/remove_hash_in_md_outline/",
+      "author": "GnixAij",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
+    },
+    {
       "title": "飞傲KB1K小键盘 Mac系统使用教程",
       "created": "2024-09-14 00:00",
       "link": "https://dongjunke.cn/posts/2024/09/14/48283.html",
@@ -288,11 +316,32 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
+      "title": "黑神话——悟空",
+      "created": "2024-09-13 20:13",
+      "link": "https://efterklang.github.io/Essay/Game/black_myth_wukong/",
+      "author": "GnixAij",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
+    },
+    {
       "title": "Nextjs博客重构记录",
       "created": "2024-09-13 09:15",
       "link": "https://blog.ciraos.top/p/bee08b52/",
       "author": "葱苓sama",
       "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
+    },
+    {
+      "title": "Binary Search",
+      "created": "2024-09-12 18:34",
+      "link": "https://efterklang.github.io/Dev/Algorithm/binary_search/",
+      "author": "GnixAij",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
+    },
+    {
+      "title": "Sliding Window",
+      "created": "2024-09-12 18:34",
+      "link": "https://efterklang.github.io/Dev/Algorithm/sliding_window/",
+      "author": "GnixAij",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
       "title": "阴阳师八周年活动-非酋的自我修养记录",
@@ -314,6 +363,13 @@
       "link": "https://uuanqin.top/p/41280b89/",
       "author": "半方池水",
       "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
+    },
+    {
+      "title": "强推下星极世纪 CDN 平台",
+      "created": "2024-09-12 00:00",
+      "link": "https://dusays.com/747/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "风记得的音乐：《星河船泊》—— 满船清梦压星河",
@@ -500,7 +556,7 @@
     {
       "title": "别人不了解你的时候，你又何必在意他对你的评价",
       "created": "2024-09-06 00:00",
-      "link": "https://blog.everfu.cn/p/334b14c7.html",
+      "link": "https://everfu.cn/p/334b14c7.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -514,7 +570,7 @@
     {
       "title": "如何申请港澳往来通行证",
       "created": "2024-09-05 22:47",
-      "link": "https://blog.everfu.cn/p/8e95c705.html",
+      "link": "https://everfu.cn/p/8e95c705.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -680,13 +736,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/66229406a68df.png"
     },
     {
-      "title": "使用 Docker 部署 Opengist 开源代码片段分享工具",
-      "created": "2024-08-31 00:00",
-      "link": "https://dusays.com/743/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
-    },
-    {
       "title": "Cloudflare上有趣的项目",
       "created": "2024-08-31 00:00",
       "link": "https://h.liyy.us.kg/2024/08/31/cf-words/",
@@ -727,13 +776,6 @@
       "link": "https://xiangming.site/860.html",
       "author": "湘铭",
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
-    },
-    {
-      "title": "使用 Docker 自托管 VS Code 网页版",
-      "created": "2024-08-28 00:00",
-      "link": "https://dusays.com/742/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "读速 7000 的 2T 固态只卖 599，当游戏盘真香",
@@ -1854,13 +1896,6 @@
       "link": "https://dongjunke.cn/posts/2024/04/06/52154.html",
       "author": "东评西就",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
-    },
-    {
-      "title": "免费安装杜比全景声",
-      "created": "2024-04-03 11:09",
-      "link": "http://blog.quenan.love/posts/1dfc6ea9/",
-      "author": "鹊楠",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
     },
     {
       "title": "Butterfly的魔改教程：右键菜单",
