@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 91,
-    "active_num": 70,
-    "error_num": 21,
-    "article_num": 317,
-    "last_updated_time": "2024-09-25 02:27:51"
+    "active_num": 71,
+    "error_num": 20,
+    "article_num": 322,
+    "last_updated_time": "2024-09-25 09:36:36"
   },
   "article_data": [
     {
@@ -262,7 +262,7 @@
     {
       "title": "Mac 实用 Brew 搭建 PHP开发环境",
       "created": "2024-09-16 00:00",
-      "link": "https://blog.everfu.cn/p/2568de27.html",
+      "link": "https://everfu.cn/p/2568de27.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -356,6 +356,13 @@
       "link": "https://vluv.space/Dev/Algorithm/sliding_window/",
       "author": "GnixAij",
       "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
+    },
+    {
+      "title": "阴阳师八周年活动-非酋的自我修养记录",
+      "created": "2024-09-12 16:30",
+      "link": "https://www.gan1ser.top/post/4bfe597f.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
     },
     {
       "title": "买椟还珠",
@@ -556,7 +563,7 @@
     {
       "title": "别人不了解你的时候，你又何必在意他对你的评价",
       "created": "2024-09-06 00:00",
-      "link": "https://blog.everfu.cn/p/334b14c7.html",
+      "link": "https://everfu.cn/p/334b14c7.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -570,7 +577,7 @@
     {
       "title": "如何申请港澳往来通行证",
       "created": "2024-09-05 22:47",
-      "link": "https://blog.everfu.cn/p/8e95c705.html",
+      "link": "https://everfu.cn/p/8e95c705.html",
       "author": "Efu",
       "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
@@ -1121,6 +1128,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/30/660769346d538.jpg"
     },
     {
+      "title": "Serv00部署Memos",
+      "created": "2024-08-03 19:23",
+      "link": "https://www.gan1ser.top/post/6a236522.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "真·彩虹猫加载动画",
       "created": "2024-08-03 01:12",
       "link": "https://blog.sinzmise.top/posts/46640/",
@@ -1359,6 +1373,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
     },
     {
+      "title": "信盈达实习记录",
+      "created": "2024-07-07 17:13",
+      "link": "https://www.gan1ser.top/post/754a429b.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "使用action+gh_issue_api完成订阅功能",
       "created": "2024-07-04 15:50",
       "link": "https://hexo.shangskr.top/posts/24.html",
@@ -1429,11 +1450,25 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
     },
     {
+      "title": "数字信号的2FSK调制与解调",
+      "created": "2024-06-27 04:13",
+      "link": "https://www.gan1ser.top/post/b9a95f5e.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "商家店铺简单实现扫一扫连接WiFi",
       "created": "2024-06-26 10:57",
       "link": "https://www.lyszm.com/917.html",
       "author": "六月是只猫",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
+    },
+    {
+      "title": "OFDM学习过程及仿真",
+      "created": "2024-06-23 20:07",
+      "link": "https://www.gan1ser.top/post/ab4c01cf.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
     },
     {
       "title": "Cloudreve捐助版Docker部署指南",
