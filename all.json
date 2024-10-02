@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 92,
+    "friends_num": 93,
     "active_num": 73,
-    "error_num": 19,
+    "error_num": 20,
     "article_num": 330,
-    "last_updated_time": "2024-10-02 20:39:00"
+    "last_updated_time": "2024-10-03 02:27:18"
   },
   "article_data": [
     {
@@ -41,6 +41,13 @@
       "link": "https://koxiuqiu.cn/2024/10y1d1/",
       "author": "朽丘博",
       "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
+    },
+    {
+      "title": "【刷题日记】Java 刷题的快速热身，3 分钟重拾战斗热情",
+      "created": "2024-10-02 00:03",
+      "link": "https://uuanqin.top/p/c73083b9/",
+      "author": "半方池水",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
     },
     {
       "title": "羊毛日记之国庆节[1]",
@@ -230,6 +237,13 @@
       "link": "https://h4ck.org.cn/2024/09/18075",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
+    {
+      "title": "Look Scanned 开源 PDF 扫描项目",
+      "created": "2024-09-24 00:00",
+      "link": "https://dusays.com/751/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "QQ音乐加密格式解密",
@@ -610,13 +624,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
     },
     {
-      "title": "阴阳师八周年活动-非酋的自我修养记录",
-      "created": "2024-09-12 16:30",
-      "link": "https://www.gan1ser.top/post/4bfe597f.html",
-      "author": "GanSer",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
-    },
-    {
       "title": "买椟还珠",
       "created": "2024-09-12 09:25",
       "link": "https://h4ck.org.cn/2024/09/18029",
@@ -629,13 +636,6 @@
       "link": "https://uuanqin.top/p/41280b89/",
       "author": "半方池水",
       "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
-    },
-    {
-      "title": "强推下星极世纪 CDN 平台",
-      "created": "2024-09-12 00:00",
-      "link": "https://dusays.com/747/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "风记得的音乐：《星河船泊》—— 满船清梦压星河",
@@ -790,13 +790,6 @@
       "link": "https://blog.liushen.fun/posts/1ab3d6a1/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "【刷题日记】字符串的匹配算法（单模式串）",
-      "created": "2024-09-04 23:58",
-      "link": "https://uuanqin.top/p/53501b47/",
-      "author": "半方池水",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
     },
     {
       "title": "Python基础：创建窗体、添加按钮和输入框",
@@ -1233,13 +1226,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/30/660769346d538.jpg"
     },
     {
-      "title": "Serv00部署Memos",
-      "created": "2024-08-03 19:23",
-      "link": "https://www.gan1ser.top/post/6a236522.html",
-      "author": "GanSer",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
-    },
-    {
       "title": "真·彩虹猫加载动画",
       "created": "2024-08-03 01:12",
       "link": "https://blog.sinzmise.top/posts/46640/",
@@ -1471,13 +1457,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
     },
     {
-      "title": "信盈达实习记录",
-      "created": "2024-07-07 17:13",
-      "link": "https://www.gan1ser.top/post/754a429b.html",
-      "author": "GanSer",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
-    },
-    {
       "title": "使用action+gh_issue_api完成订阅功能",
       "created": "2024-07-04 15:50",
       "link": "https://hexo.shangskr.top/posts/24.html",
@@ -1548,13 +1527,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
     },
     {
-      "title": "数字信号的2FSK调制与解调",
-      "created": "2024-06-27 04:13",
-      "link": "https://www.gan1ser.top/post/b9a95f5e.html",
-      "author": "GanSer",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
-    },
-    {
       "title": "博客迁移Wordpress",
       "created": "2024-06-26 15:39",
       "link": "https://lanxing.net/archives/162/",
@@ -1567,13 +1539,6 @@
       "link": "https://www.lyszm.com/917.html",
       "author": "六月是只猫",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
-    },
-    {
-      "title": "OFDM学习过程及仿真",
-      "created": "2024-06-23 20:07",
-      "link": "https://www.gan1ser.top/post/ab4c01cf.html",
-      "author": "GanSer",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
     },
     {
       "title": "Cloudreve捐助版Docker部署指南",
@@ -1693,6 +1658,13 @@
       "link": "https://www.bokeLhc.cn/266.html",
       "author": "luo",
       "avatar": "https://cdn.qyliu.top/i/2024/08/28/66ced0341401e.webp"
+    },
+    {
+      "title": "我的赛博生活02",
+      "created": "2024-05-29 23:07",
+      "link": "https://linsnow.cn/posts/cyberlife/log-02/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
     },
     {
       "title": "不蒜子统计私有化部署",
@@ -2003,6 +1975,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/16/66bef97a8b1ce.webp"
     },
     {
+      "title": "我的赛博生活01",
+      "created": "2024-03-04 07:20",
+      "link": "https://linsnow.cn/posts/cyberlife/log-01/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
+    },
+    {
       "title": "SAP Business One 安装常出现的报错以及解决方案（附虚拟机激活密钥）",
       "created": "2024-02-27 23:52",
       "link": "https://luckqf.cn/archives/SAP%20Business%20One",
@@ -2101,6 +2080,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/31/66090bfe06ba6.png"
     },
     {
+      "title": "2023年终总结",
+      "created": "2024-01-03 16:03",
+      "link": "https://linsnow.cn/posts/dailylife/2023-end/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
+    },
+    {
       "title": "新年倒计时改良&随便说说",
       "created": "2023-12-25 20:24",
       "link": "https://blog.leonus.cn/2023/newYearCard2.html",
@@ -2141,6 +2127,13 @@
       "link": "https://blog.opeach.cn/posts/24ac.html",
       "author": "HiPeach",
       "avatar": "https://cdn.qyliu.top/i/2024/05/04/6635d30e5429b.png"
+    },
+    {
+      "title": "工欲善其事",
+      "created": "2023-12-10 02:56",
+      "link": "https://linsnow.cn/posts/objectnotes/softwares/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
     },
     {
       "title": "使用了双拼一段时间之后",
@@ -2253,6 +2246,13 @@
       "link": "https://kmar.top/posts/b70ec88f/",
       "author": "山岳库博",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116c3ba58c3.png"
+    },
+    {
+      "title": "Stack主题的自定义",
+      "created": "2023-08-02 01:38",
+      "link": "https://linsnow.cn/posts/bloglab/hugo-stack/modify-hugo/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
     },
     {
       "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
