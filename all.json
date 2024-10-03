@@ -4,15 +4,29 @@
     "active_num": 74,
     "error_num": 19,
     "article_num": 339,
-    "last_updated_time": "2024-10-03 20:38:38"
+    "last_updated_time": "2024-10-04 02:27:11"
   },
   "article_data": [
+    {
+      "title": "十月初：国庆假期之化险为夷",
+      "created": "2024-10-04 06:43",
+      "link": "https://yjvc.cn/index.php/archives/1444/",
+      "author": "刘郎阁",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/19/66229406a68df.png"
+    },
     {
       "title": "LEDCDN小说明",
       "created": "2024-10-04 04:00",
       "link": "https://koxiuqiu.cn/2024/ledcdn/",
       "author": "朽丘博",
       "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
+    },
+    {
+      "title": "多方式防止网站被镜像",
+      "created": "2024-10-03 00:00",
+      "link": "https://dusays.com/754/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "wyy代理启动!直接SVIP",
@@ -104,6 +118,13 @@
       "link": "https://blog.liushen.fun/posts/b330686/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "将 Debian11 升级到 Debian12",
+      "created": "2024-09-30 00:00",
+      "link": "https://dusays.com/753/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "123云盘-下载工具",
@@ -477,13 +498,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
     },
     {
-      "title": "腾飞 Webos 如 Win11 体验的私有云盘",
-      "created": "2024-09-18 00:00",
-      "link": "https://dusays.com/749/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
-    },
-    {
       "title": "魔改主题兼容轻量友链朋友圈",
       "created": "2024-09-17 23:47",
       "link": "https://blog.bsgun.cn/posts/1e0a6e20/",
@@ -573,13 +587,6 @@
       "link": "https://xiangming.site/864.html",
       "author": "湘铭",
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
-    },
-    {
-      "title": "Navidrome 自托管的开源音乐服务器",
-      "created": "2024-09-15 00:00",
-      "link": "https://dusays.com/748/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
       "title": "Remove \"#\" in MD Outline",
@@ -1042,13 +1049,6 @@
       "link": "https://www.henjinet.com/archives/chang_qi_shu_chu.html",
       "author": "痕迹小站",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/6659688bbf14b.png"
-    },
-    {
-      "title": "iOS系统级Bug：瞬间崩溃重启",
-      "created": "2024-08-22 23:43",
-      "link": "https://yjvc.cn/index.php/archives/1430/",
-      "author": "刘郎阁",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/19/66229406a68df.png"
     },
     {
       "title": "群晖Nas折腾失败手记[已成功解决]",
