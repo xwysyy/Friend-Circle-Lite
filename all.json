@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 97,
-    "active_num": 78,
-    "error_num": 19,
-    "article_num": 347,
-    "last_updated_time": "2024-10-12 20:35:34"
+    "active_num": 79,
+    "error_num": 18,
+    "article_num": 352,
+    "last_updated_time": "2024-10-13 02:25:01"
   },
   "article_data": [
+    {
+      "title": "废话校园日常",
+      "created": "2024-10-13 06:00",
+      "link": "https://koxiuqiu.cn/2024/10y12d1/",
+      "author": "朽丘博",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
+    },
     {
       "title": "Hello World",
       "created": "2024-10-12 09:03",
@@ -540,13 +547,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af31bec75a0.webp"
     },
     {
-      "title": "24年9月小结",
-      "created": "2024-09-20 17:00",
-      "link": "https://koxiuqiu.cn/2024/9y20d1/",
-      "author": "朽丘博",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
-    },
-    {
       "title": "九月：秋意渐浓，露营季启航",
       "created": "2024-09-20 16:40",
       "link": "https://yjvc.cn/index.php/archives/1442/",
@@ -804,6 +804,13 @@
       "link": "https://www.qcqx.cn/article/d186ebdd.html",
       "author": "轻笑",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/6659628eddf20.png"
+    },
+    {
+      "title": "阴阳师八周年活动-非酋的自我修养记录",
+      "created": "2024-09-12 16:30",
+      "link": "https://www.gan1ser.top/post/4bfe597f.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
     },
     {
       "title": "Vue3.5 更新了啥",
@@ -1366,6 +1373,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/30/660769346d538.jpg"
     },
     {
+      "title": "Serv00部署Memos",
+      "created": "2024-08-03 19:23",
+      "link": "https://www.gan1ser.top/post/6a236522.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "真·彩虹猫加载动画",
       "created": "2024-08-03 01:12",
       "link": "https://blog.sinzmise.top/posts/46640/",
@@ -1625,6 +1639,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/27/662d1c9b7efe1.png"
     },
     {
+      "title": "信盈达实习记录",
+      "created": "2024-07-07 17:13",
+      "link": "https://www.gan1ser.top/post/754a429b.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "使用action+gh_issue_api完成订阅功能",
       "created": "2024-07-04 15:50",
       "link": "https://hexo.shangskr.top/posts/24.html",
@@ -1688,11 +1709,25 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
     },
     {
+      "title": "数字信号的2FSK调制与解调",
+      "created": "2024-06-27 04:13",
+      "link": "https://www.gan1ser.top/post/b9a95f5e.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
+    },
+    {
       "title": "博客迁移Wordpress",
       "created": "2024-06-26 15:39",
       "link": "https://lanxing.net/archives/162/",
       "author": "揽星",
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612410571110.png"
+    },
+    {
+      "title": "OFDM学习过程及仿真",
+      "created": "2024-06-23 20:07",
+      "link": "https://www.gan1ser.top/post/ab4c01cf.html",
+      "author": "GanSer",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
     },
     {
       "title": "Cloudreve捐助版Docker部署指南",
