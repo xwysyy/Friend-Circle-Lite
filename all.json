@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 98,
-    "active_num": 76,
-    "error_num": 22,
-    "article_num": 338,
-    "last_updated_time": "2024-10-20 09:41:34"
+    "active_num": 77,
+    "error_num": 21,
+    "article_num": 343,
+    "last_updated_time": "2024-10-20 14:26:46"
   },
   "article_data": [
+    {
+      "title": "电流电阻与滑动变阻器接法",
+      "created": "2024-10-20 20:34",
+      "link": "https://flytusky.top/archives/152/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
+    },
+    {
+      "title": "Mac 修复某些原因后无网络",
+      "created": "2024-10-20 00:00",
+      "link": "https://blog.everfu.cn/p/dafc510c.html",
+      "author": "伍十七",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
+    },
     {
       "title": "Personalization for Terminal，Shell & Prompt",
       "created": "2024-10-19 15:38",
@@ -1226,6 +1240,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/09/20/66ed2bb641741.webp"
     },
     {
+      "title": "KaleidoscopeOS For Begonia",
+      "created": "2024-08-19 02:00",
+      "link": "https://blog.wzwzx.cn/kaleidoscopeos-for-begonia.html",
+      "author": "蛋蛋困了",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/30/6631024628e0d.png"
+    },
+    {
       "title": "【JavaSE基础】Java 基础知识",
       "created": "2024-08-19 00:07",
       "link": "https://xingji.fun/posts/64063/",
@@ -1926,6 +1947,20 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/27/662d1c9b7efe1.png"
     },
     {
+      "title": "[EN] ParanoidAndroid For OPKONA",
+      "created": "2024-05-04 22:14",
+      "link": "https://blog.wzwzx.cn/en-paranoidandroid-for-opkona.html",
+      "author": "蛋蛋困了",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/30/6631024628e0d.png"
+    },
+    {
+      "title": "ParanoidAndroid For OPKONA",
+      "created": "2024-05-04 20:01",
+      "link": "https://blog.wzwzx.cn/paranoidandroid-for-opkona.html",
+      "author": "蛋蛋困了",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/30/6631024628e0d.png"
+    },
+    {
       "title": "探索 | 我只是想保存一个 Key！",
       "created": "2024-05-03 22:14",
       "link": "https://blog.hesiy.cn/posts/i-just-want-to-save-keys/",
@@ -1973,13 +2008,6 @@
       "link": "https://huanxueblog.top/posts/a8fad53.html",
       "author": "幻雪博客",
       "avatar": "https://cdn.qyliu.top/i/2024/03/31/66090bfe06ba6.png"
-    },
-    {
-      "title": "万有引力定律与航空航天",
-      "created": "2024-04-21 06:16",
-      "link": "https://flytusky.top/archives/135/",
-      "author": "微笔记",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "MySQL练习题",
@@ -2120,6 +2148,13 @@
       "link": "https://yuuu.org/post/64202.html",
       "author": "微霞",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116f0fe045d.png"
+    },
+    {
+      "title": "世界，您好！",
+      "created": "2024-02-08 11:18",
+      "link": "https://blog.wzwzx.cn/hello-world.html",
+      "author": "蛋蛋困了",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/30/6631024628e0d.png"
     },
     {
       "title": "你好 2024",
