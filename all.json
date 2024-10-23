@@ -4,9 +4,16 @@
     "active_num": 80,
     "error_num": 18,
     "article_num": 353,
-    "last_updated_time": "2024-10-23 20:39:15"
+    "last_updated_time": "2024-10-24 02:26:50"
   },
   "article_data": [
+    {
+      "title": "QRcodeGen项目介绍，基于Python打造二维码生成新利器",
+      "created": "2024-10-23 21:49",
+      "link": "https://talen.top/posts/5788ce36/",
+      "author": "M.Talen",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/23/664eda97bdec6.png"
+    },
     {
       "title": "电子显微镜图像优化代码记录",
       "created": "2024-10-23 16:30",
@@ -1504,13 +1511,6 @@
       "link": "http://blog.awaae001.top/posts/38498.html",
       "author": "呓语梦轩",
       "avatar": "https://cdn.qyliu.top/i/2024/03/30/660769346d538.jpg"
-    },
-    {
-      "title": "Xterminal：颜值高、功能强，追求卓越体验的SSH工具",
-      "created": "2024-07-31 07:56",
-      "link": "https://talen.top/posts/d7f79b43/",
-      "author": "M.Talen",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/23/664eda97bdec6.png"
     },
     {
       "title": "2024-07小记",
