@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 98,
-    "active_num": 77,
-    "error_num": 21,
-    "article_num": 333,
-    "last_updated_time": "2024-10-31 09:39:16"
+    "active_num": 78,
+    "error_num": 20,
+    "article_num": 343,
+    "last_updated_time": "2024-10-31 14:30:18"
   },
   "article_data": [
     {
@@ -358,6 +358,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
+      "title": "电流电阻与滑动变阻器接法",
+      "created": "2024-10-20 20:34",
+      "link": "https://flytusky.top/archives/152/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
+    },
+    {
       "title": "浅谈Redis的HyperLogLog",
       "created": "2024-10-20 18:57",
       "link": "https://www.hitagi.icu/posts/397032af/",
@@ -386,6 +393,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
+      "title": "给你的博客底部添加一排宠物",
+      "created": "2024-10-19 14:08",
+      "link": "https://blog.qjqq.cn/posts/f69c.html",
+      "author": "青桔气球",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
+    },
+    {
       "title": "sh 脚本给 screen 传递命令【非交互模式】",
       "created": "2024-10-19 10:56",
       "link": "https://h4ck.org.cn/2024/10/18372",
@@ -398,6 +412,13 @@
       "link": "https://blog.bsgun.cn/posts/55b29cdb/",
       "author": "梦爱吃鱼",
       "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
+    },
+    {
+      "title": "Solitude建站备忘",
+      "created": "2024-10-18 20:23",
+      "link": "https://blog.qjqq.cn/posts/5240.html",
+      "author": "青桔气球",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "vue3 中父子组件数据传输踩坑",
@@ -496,6 +517,13 @@
       "link": "https://h.liyy.us.kg/2024/10/14/qq-histort/",
       "author": "茗辰原",
       "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
+    },
+    {
+      "title": "珠海傍晚的氛围感（一定要欣赏一下！）",
+      "created": "2024-10-13 19:03",
+      "link": "https://flytusky.top/archives/150/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "Clash For Windows 分流策略",
@@ -785,6 +813,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/10/08/6705429a39b14.webp"
     },
     {
+      "title": "docker部署ZFile",
+      "created": "2024-09-25 14:37",
+      "link": "https://blog.qjqq.cn/posts/e623.html",
+      "author": "青桔气球",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
+    },
+    {
       "title": "Alibaba Cloud Linux中CronTab的用法详解",
       "created": "2024-09-24 15:35",
       "link": "https://www.aimiliy.top/posts/2cba4350.html",
@@ -967,11 +1002,25 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
     },
     {
+      "title": "向量最大值问题动点的几个思路",
+      "created": "2024-09-16 02:19",
+      "link": "https://flytusky.top/archives/144/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
+    },
+    {
       "title": "免费引入商用黑体字体系列整理及 CSS 字体引入亲妈式教程（20240915更新）",
       "created": "2024-09-15 20:50",
       "link": "https://www.thyuu.com/62610",
       "author": "风记星辰",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2d2430f68.webp"
+    },
+    {
+      "title": "部署聚合dns",
+      "created": "2024-09-15 15:09",
+      "link": "https://blog.qjqq.cn/posts/1104.html",
+      "author": "青桔气球",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "24届秋招Java后端面试合集",
@@ -1000,6 +1049,13 @@
       "link": "https://dongjunke.cn/posts/2024/09/14/48283.html",
       "author": "东评西就",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
+    },
+    {
+      "title": "docker部署自动化ssl推送",
+      "created": "2024-09-13 21:45",
+      "link": "https://blog.qjqq.cn/posts/8d14.html",
+      "author": "青桔气球",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "内功",
@@ -1070,6 +1126,13 @@
       "link": "https://talen.top/posts/a910f408/",
       "author": "M.Talen",
       "avatar": "https://cdn.qyliu.top/i/2024/05/23/664eda97bdec6.png"
+    },
+    {
+      "title": "我又回来了！",
+      "created": "2024-09-07 18:21",
+      "link": "https://flytusky.top/archives/143/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "数据结构-绪论",
@@ -1910,6 +1973,13 @@
       "link": "https://akilar.top/posts/c215d440/",
       "author": "Akilar",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
+    },
+    {
+      "title": "2024-4-20:The bad weather in GuangDong but something wonderful in school",
+      "created": "2024-04-21 19:21",
+      "link": "https://flytusky.top/archives/139/",
+      "author": "微笔记",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "一文让你理解网络阻塞与非阻塞和多路io复用",
