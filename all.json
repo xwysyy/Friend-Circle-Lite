@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 98,
-    "active_num": 78,
-    "error_num": 20,
-    "article_num": 338,
-    "last_updated_time": "2024-10-31 20:40:56"
+    "active_num": 79,
+    "error_num": 19,
+    "article_num": 343,
+    "last_updated_time": "2024-11-01 02:29:37"
   },
   "article_data": [
     {
@@ -438,8 +438,8 @@
       "title": "vue3 中父子组件数据传输踩坑",
       "created": "2024-10-18 19:21",
       "link": "https://blog.webjing.cn/archives/8DZ3LQs9",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "十月：秋雨过后的暖阳",
@@ -795,8 +795,8 @@
       "title": "将你的服务运维面板从宝塔替换为1panel",
       "created": "2024-09-26 13:29",
       "link": "https://blog.webjing.cn/archives/JRrd51Ye",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "配置并差点运行不了 Java Applet",
@@ -1502,8 +1502,8 @@
       "title": "Python实战项目：外星人入侵（源码分享）",
       "created": "2024-08-02 14:33",
       "link": "https://blog.webjing.cn/archives/mK0pfmcB",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "人没逝，感谢关心（咬牙切齿）",
@@ -1621,8 +1621,8 @@
       "title": "theme-hao主题适配友链自助提交插件",
       "created": "2024-07-21 09:30",
       "link": "https://blog.webjing.cn/archives/xMlRKBEd",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "我为下一届辩论新生留下的文字",
@@ -1642,8 +1642,8 @@
       "title": "plugin-artalk 插件保姆级使用教程",
       "created": "2024-07-18 23:42",
       "link": "https://blog.webjing.cn/archives/DV1kKzJX",
-      "author": "dreamChaser",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc59b439430.png"
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "2024版IDEA终端无法打开",
@@ -1716,6 +1716,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/18/66c0dbddc587a.webp"
     },
     {
+      "title": "Butterfly的魔改教程：最新评论页",
+      "created": "2024-06-27 20:10",
+      "link": "https://meuicat.com/blog/89/",
+      "author": "爱吃肉的猫",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
+    },
+    {
       "title": "数字信号的2FSK调制与解调",
       "created": "2024-06-27 04:13",
       "link": "https://www.gan1ser.top/post/b9a95f5e.html",
@@ -1777,6 +1784,13 @@
       "link": "https://blog.xing-ye.top/posts/7b314330/",
       "author": "XINGYE",
       "avatar": "https://cdn.qyliu.top/i/2024/05/18/6648b84c682e1.png"
+    },
+    {
+      "title": "离歌不夜天",
+      "created": "2024-06-12 22:25",
+      "link": "https://meuicat.com/blog/88/",
+      "author": "爱吃肉的猫",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
     },
     {
       "title": "Fiveth's Life 1",
@@ -1847,6 +1861,13 @@
       "link": "https://yuuu.org/post/24530.html",
       "author": "微霞",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116f0fe045d.png"
+    },
+    {
+      "title": "前端分享 - 滑动阻尼效果",
+      "created": "2024-05-17 17:47",
+      "link": "https://meuicat.com/blog/87/",
+      "author": "爱吃肉的猫",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
     },
     {
       "title": "Hello Hugo",
@@ -2022,6 +2043,20 @@
       "link": "https://akilar.top/posts/fb6a1a78/",
       "author": "Akilar",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
+    },
+    {
+      "title": "Butterfly的魔改教程：右键菜单",
+      "created": "2024-04-01 21:00",
+      "link": "https://meuicat.com/blog/86/",
+      "author": "爱吃肉的猫",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
+    },
+    {
+      "title": "音乐分享 - doi微醺氛围",
+      "created": "2024-03-25 00:16",
+      "link": "https://meuicat.com/blog/85/",
+      "author": "爱吃肉的猫",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/66123cff10a83.png"
     },
     {
       "title": "【业务实践】探索 Excel 表数据的导入和导出功能的完整实现方案",
