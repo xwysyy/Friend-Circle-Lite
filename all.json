@@ -3,10 +3,31 @@
     "friends_num": 98,
     "active_num": 79,
     "error_num": 19,
-    "article_num": 343,
-    "last_updated_time": "2024-11-01 09:44:25"
+    "article_num": 348,
+    "last_updated_time": "2024-11-01 14:31:49"
   },
   "article_data": [
+    {
+      "title": "WeekNote 2024 Week 44",
+      "created": "2024-11-01 11:06",
+      "link": "https://hp-l.github.io/2024/11/01/110624/",
+      "author": "子书承宇",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/08/6705429a39b14.webp"
+    },
+    {
+      "title": "ChatGPT对话搜索网络功能上手：能代替搜索引擎吗？",
+      "created": "2024-11-01 10:52",
+      "link": "https://blog.zhheo.com/p/8088.html",
+      "author": "张洪Heo",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
+    },
+    {
+      "title": "免费洗车",
+      "created": "2024-11-01 09:49",
+      "link": "https://h4ck.org.cn/2024/11/18434",
+      "author": "obaby",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
+    },
     {
       "title": "买保险，靠谱么？",
       "created": "2024-10-31 17:20",
@@ -41,13 +62,6 @@
       "link": "https://h4ck.org.cn/2024/10/18424",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
-      "title": "WeekNote 2024 Week 44",
-      "created": "2024-10-30 10:06",
-      "link": "https://hp-l.github.io/2024/10/30/100624/",
-      "author": "子书承宇",
-      "avatar": "https://cdn.qyliu.top/i/2024/10/08/6705429a39b14.webp"
     },
     {
       "title": "Python 解析 DLT645 协议数据",
@@ -414,13 +428,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
-      "title": "sh 脚本给 screen 传递命令【非交互模式】",
-      "created": "2024-10-19 10:56",
-      "link": "https://h4ck.org.cn/2024/10/18372",
-      "author": "obaby",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
       "title": "给你的博客添加一个宠物挂件",
       "created": "2024-10-19 03:58",
       "link": "https://blog.bsgun.cn/posts/55b29cdb/",
@@ -454,13 +461,6 @@
       "link": "https://blog.zhilu.cyou/2024/exam-clock-thinking",
       "author": "纸鹿本鹿",
       "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
-    },
-    {
-      "title": "Mac使用自动操作快速给应用绕过Apple签名办法，使用学习版软件必备",
-      "created": "2024-10-18 11:03",
-      "link": "https://blog.zhheo.com/p/c737.html",
-      "author": "张洪Heo",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
     },
     {
       "title": "Yearning 开源 SQL 审核平台",
@@ -664,6 +664,13 @@
       "link": "https://dongjunke.cn/posts/2024/10/07/63639.html",
       "author": "东评西就",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
+    },
+    {
+      "title": "杂物间 || 关于超微h11dsi主板M.2固态装系统相关：备忘",
+      "created": "2024-10-07 19:37",
+      "link": "https://blog.hantaotao.top/archives/151/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
     },
     {
       "title": "站点装修与国庆小记",
@@ -1233,6 +1240,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/10/13/670b53452abec.webp"
     },
     {
+      "title": "知识库 || 基于Starccm+的UUV回转半径计算",
+      "created": "2024-09-01 12:18",
+      "link": "https://blog.hantaotao.top/archives/150/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
+    },
+    {
       "title": "Windows工具-让你的Windows锦上添花，添了又添",
       "created": "2024-09-01 11:24",
       "link": "http://blog.awaae001.top/posts/44173.html",
@@ -1310,11 +1324,32 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/05/66b07b620cd9e.webp"
     },
     {
+      "title": "繁华 || 智齿、补牙、根管、戴冠",
+      "created": "2024-08-25 13:06",
+      "link": "https://blog.hantaotao.top/archives/149/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
+    },
+    {
+      "title": "观察 || 失业率、人工智能、无人驾驶",
+      "created": "2024-08-22 23:13",
+      "link": "https://blog.hantaotao.top/archives/145/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
+    },
+    {
       "title": "群晖Nas折腾失败手记[已成功解决]",
       "created": "2024-08-22 21:40",
       "link": "https://dongjunke.cn/posts/2024/08/22/63066.html",
       "author": "东评西就",
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
+    },
+    {
+      "title": "笔记 || ROS相关基础 （Updated:20240908）",
+      "created": "2024-08-22 20:58",
+      "link": "https://blog.hantaotao.top/archives/136/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
     },
     {
       "title": "【网站公告】短期服务中断通知",
