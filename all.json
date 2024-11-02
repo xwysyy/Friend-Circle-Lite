@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 98,
-    "active_num": 77,
-    "error_num": 21,
-    "article_num": 343,
-    "last_updated_time": "2024-11-02 14:29:29"
+    "active_num": 79,
+    "error_num": 19,
+    "article_num": 353,
+    "last_updated_time": "2024-11-02 20:38:20"
   },
   "article_data": [
+    {
+      "title": "搜狗输入法新体验，彩虹派对打字炫酷动态皮肤",
+      "created": "2024-11-03 04:14",
+      "link": "https://www.lyszm.com/1054.html",
+      "author": "六月是只猫",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
+    },
     {
       "title": "威联通 使用Docker快速部署CertD并自动申请免费泛域名SSL证书",
       "created": "2024-11-02 21:59",
@@ -15,11 +22,32 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
     },
     {
+      "title": "Word如何手动制作目录，手动生成自定义目录",
+      "created": "2024-11-02 17:02",
+      "link": "https://blog.zhheo.com/p/7510.html",
+      "author": "张洪Heo",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
+    },
+    {
       "title": "什么是 OWASP 安全项目",
       "created": "2024-11-02 00:00",
       "link": "https://dusays.com/764/",
       "author": "杜老师说",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
+    },
+    {
+      "title": "给主题添加来访者卡片",
+      "created": "2024-11-01 18:10",
+      "link": "https://blog.bsgun.cn/posts/ef58a648/",
+      "author": "梦爱吃鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
+    },
+    {
+      "title": "数字电路设计与嵌入式开发——组合逻辑电路的Verilog实现",
+      "created": "2024-11-01 14:51",
+      "link": "https://vluv.space/UESTC/FPGA/lab2/",
+      "author": "GnixAij",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
       "title": "WeekNote 2024 Week 44",
@@ -316,13 +344,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/10/08/6705429a39b14.webp"
     },
     {
-      "title": "为你的原型添加动画效果：Sketch 现已支持 Smart Animate 智能动画",
-      "created": "2024-10-23 16:21",
-      "link": "https://blog.zhheo.com/p/9b80.html",
-      "author": "张洪Heo",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
-    },
-    {
       "title": "好久不见，我的朋友们",
       "created": "2024-10-22 22:19",
       "link": "https://xiangming.site/871.html",
@@ -491,6 +512,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
+      "title": "FastAPI学习日记（1）",
+      "created": "2024-10-16 22:36",
+      "link": "http://blog.quenan.love/posts/3c84aa18/",
+      "author": "鹊楠",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
+    },
+    {
       "title": "podman初体验",
       "created": "2024-10-16 22:14",
       "link": "https://www.hitagi.icu/posts/8fc7a48a/",
@@ -610,13 +638,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
     },
     {
-      "title": "今日校园见闻：我已经出离高兴了",
-      "created": "2024-10-09 22:32",
-      "link": "https://blog.zhilu.cyou/2024/observe-at-school",
-      "author": "纸鹿本鹿",
-      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
-    },
-    {
       "title": "免费领取文心一言4.0会员活动现已开启，抢先体验文心大模型4.0的魅力",
       "created": "2024-10-09 02:45",
       "link": "https://www.lyszm.com/1039.html",
@@ -636,13 +657,6 @@
       "link": "https://www.zouht.com/3790.html",
       "author": "ChrisKim",
       "avatar": "https://cdn.qyliu.top/i/2024/06/27/667d880789765.webp"
-    },
-    {
-      "title": "Java Priority Queue",
-      "created": "2024-10-08 14:55",
-      "link": "https://vluv.space/Dev/Algorithm/priority_queue/",
-      "author": "GnixAij",
-      "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
       "title": "自建MetingJs后端API",
@@ -806,13 +820,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
-      "title": "配置并差点运行不了 Java Applet",
-      "created": "2024-09-26 09:12",
-      "link": "https://blog.zhilu.cyou/2024/run-java-applets",
-      "author": "纸鹿本鹿",
-      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
-    },
-    {
       "title": "快速获取GitHub个人资料成就徽章",
       "created": "2024-09-26 00:00",
       "link": "http://blog.gzzz.pro/posts/5e9fb157/",
@@ -848,6 +855,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/6659628eddf20.png"
     },
     {
+      "title": "QQ音乐加密格式解密",
+      "created": "2024-09-23 19:05",
+      "link": "http://blog.quenan.love/posts/cf1fb2ee/",
+      "author": "鹊楠",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
+    },
+    {
       "title": "ics第三周:程序的机器级表示",
       "created": "2024-09-23 12:54",
       "link": "https://pku-cs-cjw.top/posts/ded8437/",
@@ -860,6 +874,13 @@
       "link": "https://qq.mba/187.html",
       "author": "满心记",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af31bec75a0.webp"
+    },
+    {
+      "title": "如何优雅的截图",
+      "created": "2024-09-22 09:30",
+      "link": "https://blog.redish101.top/article/how-to-cap-screen",
+      "author": "Redish101",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612417f11b02.png"
     },
     {
       "title": "月度随笔|2024-08&09",
@@ -895,6 +916,13 @@
       "link": "https://yjvc.cn/2024/09/1442",
       "author": "刘郎阁",
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/66229406a68df.png"
+    },
+    {
+      "title": "外挂标签之聊天记录",
+      "created": "2024-09-20 14:10",
+      "link": "http://blog.quenan.love/posts/829283e6/",
+      "author": "鹊楠",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
     },
     {
       "title": "Python unittest 框架，强大的测试利器",
@@ -965,6 +993,13 @@
       "link": "http://blog.awaae001.top/posts/39440.html",
       "author": "呓语梦轩",
       "avatar": "https://cdn.qyliu.top/i/2024/03/30/660769346d538.jpg"
+    },
+    {
+      "title": "关于我的个人主页！",
+      "created": "2024-09-16 22:30",
+      "link": "http://blog.quenan.love/posts/ea4b0760/",
+      "author": "鹊楠",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
     },
     {
       "title": "如何设置服务器，才使浏览器允许跨域请求",
@@ -1233,18 +1268,18 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/24/6628f767880fa.png"
     },
     {
+      "title": "reblog: 使用 Go + Next.js重构我的博客",
+      "created": "2024-08-30 15:02",
+      "link": "https://blog.redish101.top/article/introduce-reblog",
+      "author": "Redish101",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612417f11b02.png"
+    },
+    {
       "title": "🎊2024上海旅行纪念｜原神☆FES｜迪士尼🎊",
       "created": "2024-08-28 23:50",
       "link": "https://blog.starsharbor.com/posts/2024-shanghai-travel-commemorative/",
       "author": "星港Star",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af3198042a2.webp"
-    },
-    {
-      "title": "关于主题的一些魔改",
-      "created": "2024-08-28 19:51",
-      "link": "https://blog.bsgun.cn/posts/20211b6/",
-      "author": "梦爱吃鱼",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
     },
     {
       "title": "mongoDB",
@@ -1422,6 +1457,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/24/66500d797ac38.png"
     },
     {
+      "title": "重构博客记录~",
+      "created": "2024-08-08 20:29",
+      "link": "http://blog.quenan.love/posts/ae5416c7/",
+      "author": "鹊楠",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
+    },
+    {
       "title": "绝区零｜Fairy待机文案",
       "created": "2024-08-07 18:00",
       "link": "https://blog.starsharbor.com/posts/zenless-zone-zero-fairy/",
@@ -1576,16 +1618,16 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/23/662748990165a.png"
     },
     {
+      "title": "Deno再尝试：使用Deno编写一个简单的HTTP API",
+      "created": "2024-07-23 12:13",
+      "link": "https://blog.redish101.top/article/deno",
+      "author": "Redish101",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612417f11b02.png"
+    },
+    {
       "title": "Typecho后台轻简美化增强插件-AdminElegance",
       "created": "2024-07-21 22:43",
       "link": "https://www.lyszm.com/936.html",
-      "author": "六月是只猫",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
-    },
-    {
-      "title": "独具特色的开发者个人主页HTML源码",
-      "created": "2024-07-21 22:07",
-      "link": "https://www.lyszm.com/933.html",
       "author": "六月是只猫",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
     },
@@ -1637,6 +1679,13 @@
       "link": "https://www.lxink.cn/posts/b7c76dae.html",
       "author": "凉心",
       "avatar": "https://cdn.qyliu.top/i/2024/05/24/66500d797ac38.png"
+    },
+    {
+      "title": "Windows 空间管理/清理指南",
+      "created": "2024-07-13 00:29",
+      "link": "https://blog.zhilu.cyou/2024/windows-storage",
+      "author": "纸鹿本鹿",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
     },
     {
       "title": "挑战 -- 蜜雪冰城糯香柠檬茶",
@@ -1749,6 +1798,13 @@
       "link": "https://www.lanxing.net/83",
       "author": "揽星",
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612410571110.png"
+    },
+    {
+      "title": "Windows 终端体验优化指南",
+      "created": "2024-06-16 22:48",
+      "link": "https://blog.zhilu.cyou/2024/windows-terminal",
+      "author": "纸鹿本鹿",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
     },
     {
       "title": "夜景随拍",
@@ -1917,13 +1973,6 @@
       "link": "https://blog.fiveth.cc/p/138e/",
       "author": "Fiveth",
       "avatar": "https://cdn.qyliu.top/i/2024/04/20/6623d64f16aee.png"
-    },
-    {
-      "title": "把博客文章按年份放在子文件夹中了",
-      "created": "2024-04-29 11:10",
-      "link": "https://blog.zhilu.cyou/2024/blog-link-pattern",
-      "author": "纸鹿本鹿",
-      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
     },
     {
       "title": "一些头像源（稳定性自测）",
@@ -2171,6 +2220,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/11/6617da4084197.png"
     },
     {
+      "title": "SSH 免密登录",
+      "created": "2023-12-25 16:15",
+      "link": "https://blog.zhilu.cyou/2023/ssh-key-login",
+      "author": "纸鹿本鹿",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
+    },
+    {
       "title": "【显微镜下的世界】0x1",
       "created": "2023-12-23 06:59",
       "link": "https://www.yt-blog.top/26970/",
@@ -2197,6 +2253,13 @@
       "link": "https://akilar.top/posts/5ad2af31/",
       "author": "Akilar",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
+    },
+    {
+      "title": "2023年年终总结",
+      "created": "2023-12-15 19:08",
+      "link": "https://blog.redish101.top/article/2023-summary",
+      "author": "Redish101",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612417f11b02.png"
     },
     {
       "title": "更改 Minecraft 用户名和皮肤",
@@ -2337,6 +2400,13 @@
       "link": "https://blog.anheyu.com/posts/40fd.html",
       "author": "安知鱼",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "Next.js App Router初体验与实践: 将我的博客迁移到Next.js App Router与React Server Components",
+      "created": "2023-07-13 13:03",
+      "link": "https://blog.redish101.top/article/migrate-my-blog-to-nextjs-app-router-and-react-server-components",
+      "author": "Redish101",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612417f11b02.png"
     },
     {
       "title": "我的英文名",
