@@ -1,18 +1,25 @@
 {
   "statistical_data": {
     "friends_num": 98,
-    "active_num": 78,
-    "error_num": 20,
-    "article_num": 344,
-    "last_updated_time": "2024-11-06 02:28:49"
+    "active_num": 77,
+    "error_num": 21,
+    "article_num": 339,
+    "last_updated_time": "2024-11-06 09:28:13"
   },
   "article_data": [
     {
-      "title": "Solitude如何引用自定义字体",
-      "created": "2024-11-05 20:28",
-      "link": "https://blog.qjqq.cn/posts/e8a9.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
+      "title": "”挑战杯“了解",
+      "created": "2024-11-06 09:07",
+      "link": "http://xlwlgzs.com/archives/tzbxm",
+      "author": "小陆yaの博客",
+      "avatar": "https://cdn.qyliu.top/i/2024/08/18/66c1b740ad40d.webp"
+    },
+    {
+      "title": "为 QuMagie 备份的照片添加 Exif 信息",
+      "created": "2024-11-05 10:11",
+      "link": "https://blog.xsot.cn/archives/quexif.html",
+      "author": "星辰日记",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/31/66595f03d46be.png"
     },
     {
       "title": "闲鱼买年费会员靠谱吗：年轻人的第一次被诈骗",
@@ -76,6 +83,13 @@
       "link": "https://www.lyszm.com/1054.html",
       "author": "六月是只猫",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
+    },
+    {
+      "title": "杂物间 || docker安装禅道",
+      "created": "2024-11-02 22:27",
+      "link": "https://blog.hantaotao.top/archives/152/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
     },
     {
       "title": "威联通 使用Docker快速部署CertD并自动申请免费泛域名SSL证书",
@@ -344,13 +358,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
     },
     {
-      "title": "域名 DNS 服务托管至 Cloudflare 以及 301 重定向的配置",
-      "created": "2024-10-26 03:32",
-      "link": "https://uuanqin.top/p/41b77d61/",
-      "author": "半方池水",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
-    },
-    {
       "title": "24年10月小结",
       "created": "2024-10-25 23:00",
       "link": "https://koxiuqiu.cn/2024/10y25d1/",
@@ -398,13 +405,6 @@
       "link": "https://xiangming.site/871.html",
       "author": "湘铭",
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
-    },
-    {
-      "title": "假如给我三万天光明——记一次就医过程",
-      "created": "2024-10-22 20:53",
-      "link": "https://uuanqin.top/p/3ea20c6c/",
-      "author": "半方池水",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
     },
     {
       "title": "Java 代理模式",
@@ -491,25 +491,11 @@
       "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
-      "title": "给你的博客底部添加一排宠物",
-      "created": "2024-10-19 14:08",
-      "link": "https://blog.qjqq.cn/posts/f69c.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
-    },
-    {
       "title": "给你的博客添加一个宠物挂件",
       "created": "2024-10-19 03:58",
       "link": "https://blog.bsgun.cn/posts/55b29cdb/",
       "author": "梦爱吃鱼",
       "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
-    },
-    {
-      "title": "Solitude建站备忘",
-      "created": "2024-10-18 20:23",
-      "link": "https://blog.qjqq.cn/posts/5240.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "vue3 中父子组件数据传输踩坑",
@@ -615,13 +601,6 @@
       "link": "https://koxiuqiu.cn/2024/10y12d1/",
       "author": "朽丘博",
       "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
-    },
-    {
-      "title": "Waline 配置头像服务（含常用公共头像服务介绍）",
-      "created": "2024-10-13 03:07",
-      "link": "https://uuanqin.top/p/1d248fa3/",
-      "author": "半方池水",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
     },
     {
       "title": "React-记-3",
@@ -757,25 +736,11 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
     },
     {
-      "title": "【刷题日记】Java 刷题的快速热身，3 分钟重拾战斗热情",
-      "created": "2024-10-02 00:03",
-      "link": "https://uuanqin.top/p/c73083b9/",
-      "author": "半方池水",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
-    },
-    {
       "title": "CF Worker部署Umami的API",
       "created": "2024-10-01 23:45",
       "link": "https://blog.bsgun.cn/posts/d0612c0e/",
       "author": "梦爱吃鱼",
       "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
-    },
-    {
-      "title": "【刷题日记】以作为答案边界的方式理解双指针",
-      "created": "2024-10-01 18:58",
-      "link": "https://uuanqin.top/p/3fb6bb6b/",
-      "author": "半方池水",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/14/661bf5b9d3d5c.png"
     },
     {
       "title": "2024-09小记",
@@ -846,13 +811,6 @@
       "link": "http://blog.gzzz.pro/posts/5e9fb157/",
       "author": "GZZZ",
       "avatar": "https://cdn.qyliu.top/i/2024/08/05/66b07b620cd9e.webp"
-    },
-    {
-      "title": "docker部署ZFile",
-      "created": "2024-09-25 14:37",
-      "link": "https://blog.qjqq.cn/posts/e623.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "Alibaba Cloud Linux中CronTab的用法详解",
@@ -1042,13 +1000,6 @@
       "link": "https://www.thyuu.com/62610",
       "author": "风记星辰",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2d2430f68.webp"
-    },
-    {
-      "title": "部署聚合dns",
-      "created": "2024-09-15 15:09",
-      "link": "https://blog.qjqq.cn/posts/1104.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "24届秋招Java后端面试合集",
@@ -1338,13 +1289,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
     },
     {
-      "title": "笔记 || ROS相关基础 （Updated:20241027）",
-      "created": "2024-08-22 20:58",
-      "link": "https://blog.hantaotao.top/archives/136/",
-      "author": "一世繁华",
-      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
-    },
-    {
       "title": "【网站公告】短期服务中断通知",
       "created": "2024-08-22 00:00",
       "link": "https://blog.365sites.top/article/notice-1724333226856",
@@ -1413,13 +1357,6 @@
       "link": "https://blog.meta-code.top/2024/08/15/2024-13/",
       "author": "百里飞洋",
       "avatar": "https://cdn.qyliu.top/i/2024/08/16/66bef97a8b1ce.webp"
-    },
-    {
-      "title": "【教程】Rhino8.5犀牛中文版2024破解版免费安装教程",
-      "created": "2024-08-15 16:10",
-      "link": "http://xlwlgzs.com/archives/rhino8.5xi-niu-zhong-wen-ban-2024po-jie-ban-mian-fei-an-zhuang-jiao-cheng",
-      "author": "小陆yaの博客",
-      "avatar": "https://cdn.qyliu.top/i/2024/08/18/66c1b740ad40d.webp"
     },
     {
       "title": "小米路由器 - 高级玩法",
@@ -1821,6 +1758,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/07/28/66a6324891ba1.webp"
     },
     {
+      "title": "我的赛博生活02",
+      "created": "2024-05-29 23:07",
+      "link": "https://linsnow.cn/posts/cyberlife/log-02/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
+    },
+    {
       "title": "不蒜子统计私有化部署",
       "created": "2024-05-26 18:04",
       "link": "https://www.lxink.cn/posts/815893be.html",
@@ -2059,6 +2003,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/16/66bef97a8b1ce.webp"
     },
     {
+      "title": "我的赛博生活01",
+      "created": "2024-03-04 07:20",
+      "link": "https://linsnow.cn/posts/cyberlife/log-01/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
+    },
+    {
       "title": "SAP Business One 安装常出现的报错以及解决方案（附虚拟机激活密钥）",
       "created": "2024-02-27 23:52",
       "link": "https://luckqf.cn/archives/SAP%20Business%20One",
@@ -2108,13 +2059,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/30/6631024628e0d.png"
     },
     {
-      "title": "你好 2024",
-      "created": "2024-01-27 22:10",
-      "link": "https://blog.xsot.cn/archives/2023-annual-summary.html",
-      "author": "星辰日记",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/31/66595f03d46be.png"
-    },
-    {
       "title": "推一下 Vercel 加速节点",
       "created": "2024-01-25 23:47",
       "link": "https://www.yt-blog.top/9952/",
@@ -2155,6 +2099,13 @@
       "link": "https://huanxueblog.top/posts/6f6925cb.html",
       "author": "幻雪博客",
       "avatar": "https://cdn.qyliu.top/i/2024/03/31/66090bfe06ba6.png"
+    },
+    {
+      "title": "2023年终总结",
+      "created": "2024-01-03 16:03",
+      "link": "https://linsnow.cn/posts/dailylife/2023-end/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
     },
     {
       "title": "2023,时间轴即将穿透的尽头,我该如何记录这一年?",
@@ -2218,6 +2169,13 @@
       "link": "https://blog.opeach.cn/posts/24ac.html",
       "author": "HiPeach",
       "avatar": "https://cdn.qyliu.top/i/2024/05/04/6635d30e5429b.png"
+    },
+    {
+      "title": "工欲善其事",
+      "created": "2023-12-10 02:56",
+      "link": "https://linsnow.cn/posts/objectnotes/softwares/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
     },
     {
       "title": "如何让百度快速收录你的博客",
@@ -2330,6 +2288,13 @@
       "link": "https://kmar.top/posts/b70ec88f/",
       "author": "山岳库博",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116c3ba58c3.png"
+    },
+    {
+      "title": "Stack主题的自定义",
+      "created": "2023-08-02 01:38",
+      "link": "https://linsnow.cn/posts/bloglab/hugo-stack/modify-hugo/",
+      "author": "L1nSn0w",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
     },
     {
       "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
