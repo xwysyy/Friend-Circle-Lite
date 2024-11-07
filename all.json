@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 98,
-    "active_num": 80,
-    "error_num": 18,
-    "article_num": 354,
-    "last_updated_time": "2024-11-07 20:39:36"
+    "active_num": 81,
+    "error_num": 17,
+    "article_num": 355,
+    "last_updated_time": "2024-11-08 02:28:29"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://blog.webjing.cn/archives/tQR8eG1g",
       "author": "webjing",
       "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
+    },
+    {
+      "title": "Solitude 自定义侧边栏",
+      "created": "2024-11-07 10:00",
+      "link": "https://blog.everfu.cn/p/c63b9f20.html",
+      "author": "伍十七",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
     {
       "title": "CAPACITORS「电容」",
@@ -526,18 +533,18 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af33a4d6643.webp"
     },
     {
-      "title": "电流电阻与滑动变阻器接法",
-      "created": "2024-10-20 20:34",
-      "link": "https://flytusky.top/archives/152/",
-      "author": "微笔记",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
-    },
-    {
       "title": "浅谈Redis的HyperLogLog",
       "created": "2024-10-20 18:57",
       "link": "https://www.hitagi.icu/posts/397032af/",
       "author": "Hitagi",
       "avatar": "https://cdn.qyliu.top/i/2024/07/07/668a9e330dc6a.webp"
+    },
+    {
+      "title": "信奥一本通-大纲",
+      "created": "2024-10-20 17:33",
+      "link": "https://blog.zhwei101.com/archives/xin-ao-yi-ben-tong-da-gang",
+      "author": "ZHI-BLOG",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/01/665a9a8f8418a.png"
     },
     {
       "title": "Ephemeralis-Weekly（10）：方寸之外",
@@ -573,6 +580,13 @@
       "link": "https://blog.bsgun.cn/posts/55b29cdb/",
       "author": "梦爱吃鱼",
       "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
+    },
+    {
+      "title": "关于ICP备案",
+      "created": "2024-10-18 21:29",
+      "link": "https://blog.zhwei101.com/archives/guan-yu-icpbei-an",
+      "author": "ZHI-BLOG",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/01/665a9a8f8418a.png"
     },
     {
       "title": "Solitude建站备忘",
@@ -657,13 +671,6 @@
       "link": "https://h.liyy.us.kg/2024/10/14/qq-histort/",
       "author": "茗辰原",
       "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
-    },
-    {
-      "title": "珠海傍晚的氛围感（一定要欣赏一下！）",
-      "created": "2024-10-13 19:03",
-      "link": "https://flytusky.top/archives/150/",
-      "author": "微笔记",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "【JavaSE基础】变量",
@@ -790,6 +797,27 @@
       "link": "https://blog.elykia.cn/posts/15.html",
       "author": "Elykia",
       "avatar": "https://cdn.qyliu.top/i/2024/10/13/670b53452abec.webp"
+    },
+    {
+      "title": "GESP一级(二)",
+      "created": "2024-10-06 16:06",
+      "link": "https://blog.zhwei101.com/archives/gespyi-ji-er",
+      "author": "ZHI-BLOG",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/01/665a9a8f8418a.png"
+    },
+    {
+      "title": "原码 反码 补码",
+      "created": "2024-10-06 15:58",
+      "link": "https://blog.zhwei101.com/archives/yuan-ma-fan-ma-bu-ma",
+      "author": "ZHI-BLOG",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/01/665a9a8f8418a.png"
+    },
+    {
+      "title": "进制转换",
+      "created": "2024-10-06 15:57",
+      "link": "https://blog.zhwei101.com/archives/jin-zhi-zhuan-huan",
+      "author": "ZHI-BLOG",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/01/665a9a8f8418a.png"
     },
     {
       "title": "十月初：国庆假期之化险为夷",
@@ -1100,13 +1128,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
     },
     {
-      "title": "向量最大值问题动点的几个思路",
-      "created": "2024-09-16 02:19",
-      "link": "https://flytusky.top/archives/144/",
-      "author": "微笔记",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
-    },
-    {
       "title": "免费引入商用黑体字体系列整理及 CSS 字体引入亲妈式教程（20240915更新）",
       "created": "2024-09-15 20:50",
       "link": "https://www.thyuu.com/62610",
@@ -1196,13 +1217,6 @@
       "link": "https://talen.top/posts/a910f408/",
       "author": "M.Talen",
       "avatar": "https://cdn.qyliu.top/i/2024/05/23/664eda97bdec6.png"
-    },
-    {
-      "title": "我又回来了！",
-      "created": "2024-09-07 18:21",
-      "link": "https://flytusky.top/archives/143/",
-      "author": "微笔记",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "数据结构-绪论",
@@ -2001,13 +2015,6 @@
       "link": "https://blog.fiveth.cc/p/ef0e/",
       "author": "Fiveth",
       "avatar": "https://cdn.qyliu.top/i/2024/04/20/6623d64f16aee.png"
-    },
-    {
-      "title": "2024-4-20:The bad weather in GuangDong but something wonderful in school",
-      "created": "2024-04-21 19:21",
-      "link": "https://flytusky.top/archives/139/",
-      "author": "微笔记",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117022b57a5.png"
     },
     {
       "title": "一文让你理解网络阻塞与非阻塞和多路io复用",
