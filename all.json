@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 100,
-    "active_num": 81,
-    "error_num": 19,
-    "article_num": 365,
-    "last_updated_time": "2024-11-12 14:28:51"
+    "active_num": 83,
+    "error_num": 17,
+    "article_num": 374,
+    "last_updated_time": "2024-11-12 20:39:34"
   },
   "article_data": [
+    {
+      "title": "[AcWing]区间合并",
+      "created": "2024-11-12 17:42",
+      "link": "https://www.seayj.cn/articles/adc75522/",
+      "author": "SeaEpoch",
+      "avatar": "https://cdn.qyliu.top/i/2024/11/10/672f8a9c7a5ba.webp"
+    },
+    {
+      "title": "开发不挨骂指南1--API设计规范化",
+      "created": "2024-11-12 08:00",
+      "link": "https://blog.tianli0.top/posts/2024/API1",
+      "author": "Tianli",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116950412cc.png"
+    },
     {
       "title": "样本不均衡条件下交通标志检测方法研究3",
       "created": "2024-11-12 08:00",
@@ -57,16 +71,16 @@
       "avatar": "https://cdn.qyliu.top/i/2024/11/11/67321d6dcee8e.webp"
     },
     {
-      "title": "样本不均衡条件下交通标志检测方法研究1",
+      "title": "origin入门1--数据连接&简单的绘图",
       "created": "2024-11-11 08:00",
-      "link": "https://blog.tianli0.top/posts/2024/Reading1",
+      "link": "https://blog.tianli0.top/posts/2024/Origin1",
       "author": "Tianli",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116950412cc.png"
     },
     {
-      "title": "样本不均衡条件下交通标志检测方法研究2",
+      "title": "样本不均衡条件下交通标志检测方法研究1",
       "created": "2024-11-11 08:00",
-      "link": "https://blog.tianli0.top/posts/2024/Reading2",
+      "link": "https://blog.tianli0.top/posts/2024/Reading1",
       "author": "Tianli",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116950412cc.png"
     },
@@ -97,13 +111,6 @@
       "link": "https://h4ck.org.cn/2024/11/18486",
       "author": "obaby",
       "avatar": "https://cdn.qyliu.top/i/2024/04/15/661d443b5359c.png"
-    },
-    {
-      "title": "测试学习笔记--测试思维的培养",
-      "created": "2024-11-10 08:00",
-      "link": "https://blog.tianli0.top/posts/2024/Test1",
-      "author": "Tianli",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116950412cc.png"
     },
     {
       "title": "Ephemeralis-Weekly（12）：浮沫之下",
@@ -314,13 +321,6 @@
       "link": "https://blog.zhheo.com/p/2650.html",
       "author": "张洪Heo",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
-    },
-    {
-      "title": "记一次1Panel的nodejs运行环境部署博客",
-      "created": "2024-11-05 01:33",
-      "link": "https://blog.ciraos.top/posts/blogOn1Panel",
-      "author": "葱苓sama",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
     },
     {
       "title": "享受 -- 富桂糯糯茶",
@@ -617,25 +617,11 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/20/66c41c9c45e2a.webp"
     },
     {
-      "title": "标签挂件",
-      "created": "2024-10-25 03:44",
-      "link": "https://blog.ciraos.top/posts/tagPulgins",
-      "author": "葱苓sama",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
-    },
-    {
       "title": "安知鱼主题文件魔改记录",
       "created": "2024-10-25 00:34",
       "link": "https://blog.elykia.cn/posts/16.html",
       "author": "Elykia",
       "avatar": "https://cdn.qyliu.top/i/2024/10/13/670b53452abec.webp"
-    },
-    {
-      "title": "mdx创建文章",
-      "created": "2024-10-24 17:55",
-      "link": "https://blog.ciraos.top/posts/mdx",
-      "author": "葱苓sama",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
     },
     {
       "title": "数据结构-线性表（顺序表）",
@@ -657,13 +643,6 @@
       "link": "https://talen.top/posts/5788ce36/",
       "author": "M.Talen",
       "avatar": "https://cdn.qyliu.top/i/2024/05/23/664eda97bdec6.png"
-    },
-    {
-      "title": "[AcWing]大数运算",
-      "created": "2024-10-23 12:20",
-      "link": "https://www.seayj.cn/articles/ad7498a/",
-      "author": "SeaEpoch",
-      "avatar": "https://cdn.qyliu.top/i/2024/11/10/672f8a9c7a5ba.webp"
     },
     {
       "title": "好久不见，我的朋友们",
@@ -1240,6 +1219,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "Nextjs笔记",
+      "created": "2024-09-17 21:36",
+      "link": "https://blog.ciraos.top/posts/NextjsNote",
+      "author": "葱苓sama",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
+    },
+    {
       "title": "【破事水】-对于未来的前瞻于回望",
       "created": "2024-09-17 15:26",
       "link": "http://blog.awaae001.top/posts/39440.html",
@@ -1301,6 +1287,13 @@
       "link": "https://blog.june-pj.cn/posts/8f9e94ca/",
       "author": "June",
       "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc5b18a2574.png"
+    },
+    {
+      "title": "你好，世界！",
+      "created": "2024-09-15 02:00",
+      "link": "https://blog.ciraos.top/posts/helloworld",
+      "author": "葱苓sama",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/03/663458df4e6f0.png"
     },
     {
       "title": "飞傲KB1K小键盘 Mac系统使用教程",
@@ -1562,7 +1555,7 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
     },
     {
-      "title": "笔记 || ROS相关基础 （Updated:20241025）",
+      "title": "笔记 || ROS相关基础 （Updated:20241027）",
       "created": "2024-08-22 20:58",
       "link": "https://blog.hantaotao.top/archives/136/",
       "author": "一世繁华",
@@ -2136,6 +2129,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/20/6623d64f16aee.png"
     },
     {
+      "title": "一些头像源（稳定性自测）",
+      "created": "2024-04-26 20:01",
+      "link": "https://luckqf.cn/archives/set-cravatar",
+      "author": "清风",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661240e7c04f2.png"
+    },
+    {
       "title": "关于群聊更换的紧急通知",
       "created": "2024-04-24 21:42",
       "link": "https://akilar.top/posts/c215d440/",
@@ -2262,11 +2262,39 @@
       "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
     },
     {
+      "title": "SAP Business One 安装常出现的报错以及解决方案（附虚拟机激活密钥）",
+      "created": "2024-02-27 23:52",
+      "link": "https://luckqf.cn/archives/SAP%20Business%20One",
+      "author": "清风",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661240e7c04f2.png"
+    },
+    {
       "title": "Authy 导出数据",
       "created": "2024-02-24 19:15",
       "link": "https://blog.opeach.cn/posts/a7dc.html",
       "author": "HiPeach",
       "avatar": "https://cdn.qyliu.top/i/2024/05/04/6635d30e5429b.png"
+    },
+    {
+      "title": "现代汉语常用字表（常用3500字）",
+      "created": "2024-02-21 15:12",
+      "link": "https://luckqf.cn/archives/cyhanzi3500",
+      "author": "清风",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661240e7c04f2.png"
+    },
+    {
+      "title": "中国知网无法访问",
+      "created": "2024-02-15 19:57",
+      "link": "https://luckqf.cn/archives/zhiwang404",
+      "author": "清风",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661240e7c04f2.png"
+    },
+    {
+      "title": "七牛云CDN完整部署教程（含图片样式优化）",
+      "created": "2024-02-14 23:05",
+      "link": "https://luckqf.cn/archives/qiniucdn",
+      "author": "清风",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661240e7c04f2.png"
     },
     {
       "title": "世界，您好！",
@@ -2465,6 +2493,34 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
     },
     {
+      "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
+      "created": "2023-08-27 19:22",
+      "link": "https://blog.anheyu.com/posts/340b.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
+      "created": "2023-08-26 19:24",
+      "link": "https://blog.anheyu.com/posts/136a.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
+      "created": "2023-08-19 18:42",
+      "link": "https://blog.anheyu.com/posts/8105.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
+      "created": "2023-08-18 19:24",
+      "link": "https://blog.anheyu.com/posts/4eb4.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
       "title": "Swpp Backends 官方文档",
       "created": "2023-08-09 16:18",
       "link": "https://kmar.top/posts/b70ec88f/",
@@ -2477,6 +2533,13 @@
       "link": "https://linsnow.cn/posts/bloglab/hugo-stack/modify-hugo/",
       "author": "L1nSn0w",
       "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
+    },
+    {
+      "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
+      "created": "2023-07-23 17:55",
+      "link": "https://blog.anheyu.com/posts/40fd.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
     },
     {
       "title": "Next.js App Router初体验与实践: 将我的博客迁移到Next.js App Router与React Server Components",
