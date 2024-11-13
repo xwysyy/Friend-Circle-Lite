@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 100,
-    "active_num": 82,
-    "error_num": 18,
-    "article_num": 369,
-    "last_updated_time": "2024-11-13 02:27:05"
+    "active_num": 81,
+    "error_num": 19,
+    "article_num": 364,
+    "last_updated_time": "2024-11-13 09:27:52"
   },
   "article_data": [
     {
@@ -316,13 +316,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/11/11/67321d6dcee8e.webp"
     },
     {
-      "title": "Solitude如何引用自定义字体",
-      "created": "2024-11-05 20:28",
-      "link": "https://blog.qjqq.cn/posts/e8a9.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
-    },
-    {
       "title": "为 QuMagie 备份的照片添加 Exif 信息",
       "created": "2024-11-05 10:11",
       "link": "https://blog.xsot.cn/archives/quexif.html",
@@ -384,13 +377,6 @@
       "link": "https://www.lyszm.com/1054.html",
       "author": "六月是只猫",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
-    },
-    {
-      "title": "杂物间 || docker安装禅道",
-      "created": "2024-11-02 22:27",
-      "link": "https://blog.hantaotao.top/archives/152/",
-      "author": "一世繁华",
-      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
     },
     {
       "title": "威联通 使用Docker快速部署CertD并自动申请免费泛域名SSL证书",
@@ -771,13 +757,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/09/23/66f185d450ff3.webp"
     },
     {
-      "title": "给你的博客底部添加一排宠物",
-      "created": "2024-10-19 14:08",
-      "link": "https://blog.qjqq.cn/posts/f69c.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
-    },
-    {
       "title": "给你的博客添加一个宠物挂件",
       "created": "2024-10-19 03:58",
       "link": "https://blog.bsgun.cn/posts/55b29cdb/",
@@ -790,13 +769,6 @@
       "link": "https://blog.zhwei101.com/archives/guan-yu-icpbei-an",
       "author": "ZHI-BLOG",
       "avatar": "https://cdn.qyliu.top/i/2024/06/01/665a9a8f8418a.png"
-    },
-    {
-      "title": "Solitude建站备忘",
-      "created": "2024-10-18 20:23",
-      "link": "https://blog.qjqq.cn/posts/5240.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "vue3 中父子组件数据传输踩坑",
@@ -1114,13 +1086,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/05/66b07b620cd9e.webp"
     },
     {
-      "title": "docker部署ZFile",
-      "created": "2024-09-25 14:37",
-      "link": "https://blog.qjqq.cn/posts/e623.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
-    },
-    {
       "title": "Alibaba Cloud Linux中CronTab的用法详解",
       "created": "2024-09-24 15:35",
       "link": "https://www.aimiliy.top/posts/2cba4350.html",
@@ -1287,13 +1252,6 @@
       "link": "https://www.thyuu.com/62610",
       "author": "风记星辰",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2d2430f68.webp"
-    },
-    {
-      "title": "部署聚合dns",
-      "created": "2024-09-15 15:09",
-      "link": "https://blog.qjqq.cn/posts/1104.html",
-      "author": "青桔气球",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
     },
     {
       "title": "24届秋招Java后端面试合集",
@@ -1558,6 +1516,13 @@
       "title": "观察 || 失业率、人工智能、无人驾驶",
       "created": "2024-08-22 23:13",
       "link": "https://blog.hantaotao.top/archives/145/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
+    },
+    {
+      "title": "笔记 || ROS相关基础 （Updated:20240908）",
+      "created": "2024-08-22 20:58",
+      "link": "https://blog.hantaotao.top/archives/136/",
       "author": "一世繁华",
       "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
     },
