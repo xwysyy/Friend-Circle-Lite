@@ -1,12 +1,47 @@
 {
   "statistical_data": {
     "friends_num": 100,
-    "active_num": 82,
-    "error_num": 18,
-    "article_num": 364,
-    "last_updated_time": "2024-11-14 14:29:04"
+    "active_num": 83,
+    "error_num": 17,
+    "article_num": 374,
+    "last_updated_time": "2024-11-14 20:40:29"
   },
   "article_data": [
+    {
+      "title": "做一个开心的牛马",
+      "created": "2024-11-15 03:55",
+      "link": "https://yjvc.cn/2024/11/1538",
+      "author": "刘郎阁",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/19/66229406a68df.png"
+    },
+    {
+      "title": "小白装机之路",
+      "created": "2024-11-15 01:42",
+      "link": "https://blog.june-pj.cn/posts/d45273ee/",
+      "author": "June",
+      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc5b18a2574.png"
+    },
+    {
+      "title": "屠龙者终成恶龙",
+      "created": "2024-11-14 18:00",
+      "link": "https://www.imaegoo.com/2024/sensational-headlines/",
+      "author": "虹墨",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/31/6659668724466.png"
+    },
+    {
+      "title": "Inductance「电感」",
+      "created": "2024-11-14 16:11",
+      "link": "https://hp-l.github.io/2024/11/14/161150/",
+      "author": "子书承宇",
+      "avatar": "https://cdn.qyliu.top/i/2024/11/11/67321d6dcee8e.webp"
+    },
+    {
+      "title": "如何在 Linux 系统中安装 Git 并创建和使用裸库",
+      "created": "2024-11-14 15:00",
+      "link": "https://blog.everfu.cn/p/56ecdc5a.html",
+      "author": "伍十七",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
+    },
     {
       "title": "哪吒监控-多服务器监控与运维工具",
       "created": "2024-11-14 13:32",
@@ -27,6 +62,13 @@
       "link": "https://blog.zhheo.com/p/3a1aeeb3.html",
       "author": "张洪Heo",
       "avatar": "https://cdn.qyliu.top/i/2024/08/04/66af2e22827be.webp"
+    },
+    {
+      "title": "解决 Nginx 强制跳转 HTTPS 配置与 Cloudflare 使用后出现的 ERR_TOO_MANY_REDIRECTS 问题",
+      "created": "2024-11-14 10:00",
+      "link": "https://blog.everfu.cn/p/b62940d6.html",
+      "author": "伍十七",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
     {
       "title": "友圈调整",
@@ -260,13 +302,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acfd1f993ce.webp"
     },
     {
-      "title": "Solitude 自定义页面教程",
-      "created": "2024-11-08 10:00",
-      "link": "https://blog.everfu.cn/p/a9d5ace8.html",
-      "author": "伍十七",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
-    },
-    {
       "title": "立冬",
       "created": "2024-11-07 22:16",
       "link": "https://www.lanxing.net/?post=58",
@@ -279,13 +314,6 @@
       "link": "https://blog.webjing.cn/archives/tQR8eG1g",
       "author": "webjing",
       "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
-    },
-    {
-      "title": "Solitude 自定义侧边栏",
-      "created": "2024-11-07 10:00",
-      "link": "https://blog.everfu.cn/p/c63b9f20.html",
-      "author": "伍十七",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/26/662bcda2afd5d.png"
     },
     {
       "title": "CAPACITORS「电容」",
@@ -342,13 +370,6 @@
       "link": "http://xlwlgzs.com/archives/tzbxm",
       "author": "小陆yaの博客",
       "avatar": "https://cdn.qyliu.top/i/2024/08/18/66c1b740ad40d.webp"
-    },
-    {
-      "title": "Resistance「电阻」",
-      "created": "2024-11-06 08:28",
-      "link": "https://hp-l.github.io/2024/11/06/082811/",
-      "author": "子书承宇",
-      "avatar": "https://cdn.qyliu.top/i/2024/11/11/67321d6dcee8e.webp"
     },
     {
       "title": "Solitude如何引用自定义字体",
@@ -419,6 +440,13 @@
       "link": "https://www.lyszm.com/1054.html",
       "author": "六月是只猫",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66597328bdd51.png"
+    },
+    {
+      "title": "杂物间 || docker安装禅道",
+      "created": "2024-11-02 22:27",
+      "link": "https://blog.hantaotao.top/archives/152/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
     },
     {
       "title": "威联通 使用Docker快速部署CertD并自动申请免费泛域名SSL证书",
@@ -981,6 +1009,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/09/6614f26979229.png"
     },
     {
+      "title": "杂物间 || 关于超微h11dsi主板M.2固态装系统相关：备忘",
+      "created": "2024-10-07 19:37",
+      "link": "https://blog.hantaotao.top/archives/151/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
+    },
+    {
       "title": "站点装修与国庆小记",
       "created": "2024-10-07 02:58",
       "link": "https://blog.sinzmise.top/posts/10733/",
@@ -1175,13 +1210,6 @@
       "link": "https://gyhwd.top/archives/yYQQalx4",
       "author": "青竹小轩",
       "avatar": "https://cdn.qyliu.top/i/2024/04/23/662748990165a.png"
-    },
-    {
-      "title": "九月：秋意渐浓，露营季启航",
-      "created": "2024-09-20 16:40",
-      "link": "https://yjvc.cn/2024/09/1442",
-      "author": "刘郎阁",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/19/66229406a68df.png"
     },
     {
       "title": "外挂标签之聊天记录",
@@ -1471,6 +1499,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/10/13/670b53452abec.webp"
     },
     {
+      "title": "知识库 || 基于Starccm+的UUV回转半径计算",
+      "created": "2024-09-01 12:18",
+      "link": "https://blog.hantaotao.top/archives/150/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
+    },
+    {
       "title": "Windows工具-让你的Windows锦上添花，添了又添",
       "created": "2024-09-01 11:24",
       "link": "http://blog.awaae001.top/posts/44173.html",
@@ -1520,13 +1555,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/6659668724466.png"
     },
     {
-      "title": "京东云后羿无线路由器测评",
-      "created": "2024-08-27 21:30",
-      "link": "https://www.imaegoo.com/2024/jd-houyi-wifi/",
-      "author": "虹墨",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/31/6659668724466.png"
-    },
-    {
       "title": "太白山&法门寺三日游游记",
       "created": "2024-08-27 00:06",
       "link": "https://blog.liushen.fun/posts/62e27d26/",
@@ -1539,6 +1567,20 @@
       "link": "http://blog.gzzz.pro/posts/74931b22/",
       "author": "GZZZ",
       "avatar": "https://cdn.qyliu.top/i/2024/08/05/66b07b620cd9e.webp"
+    },
+    {
+      "title": "繁华 || 智齿、补牙、根管、戴冠",
+      "created": "2024-08-25 13:06",
+      "link": "https://blog.hantaotao.top/archives/149/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
+    },
+    {
+      "title": "观察 || 失业率、人工智能、无人驾驶",
+      "created": "2024-08-22 23:13",
+      "link": "https://blog.hantaotao.top/archives/145/",
+      "author": "一世繁华",
+      "avatar": "https://cdn.qyliu.top/i/2024/09/10/66dfa2af28d1f.webp"
     },
     {
       "title": "【网站公告】短期服务中断通知",
@@ -1819,13 +1861,6 @@
       "link": "https://blog.xsot.cn/archives/riverpod.html",
       "author": "星辰日记",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/66595f03d46be.png"
-    },
-    {
-      "title": "2024版IDEA终端无法打开",
-      "created": "2024-07-18 06:45",
-      "link": "https://blog.june-pj.cn/posts/638470e5/",
-      "author": "June",
-      "avatar": "https://cdn.qyliu.top/i/2024/03/22/65fc5b18a2574.png"
     },
     {
       "title": "最近折腾群晖那点事",
@@ -2458,6 +2493,34 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
     },
     {
+      "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
+      "created": "2023-08-27 19:22",
+      "link": "https://blog.anheyu.com/posts/340b.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
+      "created": "2023-08-26 19:24",
+      "link": "https://blog.anheyu.com/posts/136a.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
+      "created": "2023-08-19 18:42",
+      "link": "https://blog.anheyu.com/posts/8105.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
+      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
+      "created": "2023-08-18 19:24",
+      "link": "https://blog.anheyu.com/posts/4eb4.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
+    },
+    {
       "title": "Swpp Backends 官方文档",
       "created": "2023-08-09 16:18",
       "link": "https://kmar.top/posts/b70ec88f/",
@@ -2470,6 +2533,13 @@
       "link": "https://linsnow.cn/posts/bloglab/hugo-stack/modify-hugo/",
       "author": "L1nSn0w",
       "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
+    },
+    {
+      "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
+      "created": "2023-07-23 17:55",
+      "link": "https://blog.anheyu.com/posts/40fd.html",
+      "author": "安知鱼",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
     },
     {
       "title": "Next.js App Router初体验与实践: 将我的博客迁移到Next.js App Router与React Server Components",
