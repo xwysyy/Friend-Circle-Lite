@@ -1,18 +1,18 @@
 {
   "statistical_data": {
     "friends_num": 105,
-    "active_num": 87,
-    "error_num": 18,
-    "article_num": 390,
-    "last_updated_time": "2024-12-01 14:30:38"
+    "active_num": 86,
+    "error_num": 19,
+    "article_num": 385,
+    "last_updated_time": "2024-12-01 20:40:04"
   },
   "article_data": [
     {
-      "title": "BlogsClub - 博客所有权认证",
-      "created": "2024-12-01 20:06",
-      "link": "https://blog.sinzmise.top/posts/45287/",
-      "author": "汐塔魔法屋",
-      "avatar": "https://cdn.qyliu.top/i/2024/11/10/6730cc7ae8dca.webp"
+      "title": "研究性学习调查问卷",
+      "created": "2024-12-01 14:00",
+      "link": "https://h.liyy.us.kg/2024/12/01/yjx-study/",
+      "author": "茗辰原",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
     },
     {
       "title": "AI挑唆人类自杀?",
@@ -20,6 +20,20 @@
       "link": "https://h.liyy.us.kg/2024/12/01/aitiaosuo/",
       "author": "茗辰原",
       "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
+    },
+    {
+      "title": "样本不均衡条件下交通标志检测方法研究6",
+      "created": "2024-12-01 08:00",
+      "link": "https://blog.tianli0.top/posts/2024/Reading6",
+      "author": "Tianli",
+      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116950412cc.png"
+    },
+    {
+      "title": "NVM管理Node.js版本切换",
+      "created": "2024-12-01 08:00",
+      "link": "https://blog.xing-ye.top/posts/438a2e37/",
+      "author": "XINGYE",
+      "avatar": "https://cdn.qyliu.top/i/2024/05/18/6648b84c682e1.png"
     },
     {
       "title": "高颜值的私人书签导航-OneNav | Docker安装",
@@ -624,13 +638,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/6612410571110.png"
     },
     {
-      "title": "多模态智能：探索LLM在图像理解中的前沿应用",
-      "created": "2024-11-13 08:00",
-      "link": "https://blog.tianli0.top/posts/2024/Thinking1",
-      "author": "Tianli",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116950412cc.png"
-    },
-    {
       "title": "【知行小酒馆】对话张云帆——规划人生",
       "created": "2024-11-13 08:00",
       "link": "https://blog.xing-ye.top/posts/e0cc44a/",
@@ -1035,13 +1042,6 @@
       "link": "https://blog.sinzmise.top/posts/61712/",
       "author": "汐塔魔法屋",
       "avatar": "https://cdn.qyliu.top/i/2024/11/10/6730cc7ae8dca.webp"
-    },
-    {
-      "title": "震惊!AI塔罗牌",
-      "created": "2024-10-27 18:00",
-      "link": "https://h.liyy.us.kg/2024/10/27/ai-tlp/",
-      "author": "茗辰原",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
     },
     {
       "title": "Ephemeralis-Weekly（11）：案几之上",
@@ -1758,6 +1758,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/07/28/66a6324891ba1.webp"
     },
     {
+      "title": "2024-08小记",
+      "created": "2024-08-31 19:33",
+      "link": "https://blog.sinzmise.top/posts/15688/",
+      "author": "汐塔魔法屋",
+      "avatar": "https://cdn.qyliu.top/i/2024/11/10/6730cc7ae8dca.webp"
+    },
+    {
       "title": "reblog: 使用 Go + Next.js重构我的博客",
       "created": "2024-08-30 15:02",
       "link": "https://blog.redish101.top/article/introduce-reblog",
@@ -2071,13 +2078,6 @@
       "link": "https://www.gan1ser.top/post/754a429b.html",
       "author": "GanSer",
       "avatar": "https://cdn.qyliu.top/i/2024/04/29/662fbba91addc.png"
-    },
-    {
-      "title": "月度随笔|2024-06",
-      "created": "2024-06-30 08:00",
-      "link": "https://blog.xing-ye.top/posts/6cb87527/",
-      "author": "XINGYE",
-      "avatar": "https://cdn.qyliu.top/i/2024/05/18/6648b84c682e1.png"
     },
     {
       "title": "【谈谈当下】青少年口中的垃圾话语",
@@ -2605,34 +2605,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/661170950f7a2.png"
     },
     {
-      "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
-      "created": "2023-08-27 19:22",
-      "link": "https://blog.anheyu.com/posts/340b.html",
-      "author": "安知鱼",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
-    },
-    {
-      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
-      "created": "2023-08-26 19:24",
-      "link": "https://blog.anheyu.com/posts/136a.html",
-      "author": "安知鱼",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
-    },
-    {
-      "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
-      "created": "2023-08-19 18:42",
-      "link": "https://blog.anheyu.com/posts/8105.html",
-      "author": "安知鱼",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
-    },
-    {
-      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
-      "created": "2023-08-18 19:24",
-      "link": "https://blog.anheyu.com/posts/4eb4.html",
-      "author": "安知鱼",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
-    },
-    {
       "title": "Swpp Backends 官方文档",
       "created": "2023-08-09 16:18",
       "link": "https://kmar.top/posts/b70ec88f/",
@@ -2645,13 +2617,6 @@
       "link": "https://linsnow.cn/posts/bloglab/hugo-stack/modify-hugo/",
       "author": "L1nSn0w",
       "avatar": "https://cdn.qyliu.top/i/2024/10/03/66fd7a9e365a0.webp"
-    },
-    {
-      "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
-      "created": "2023-07-23 17:55",
-      "link": "https://blog.anheyu.com/posts/40fd.html",
-      "author": "安知鱼",
-      "avatar": "https://cdn.qyliu.top/i/2024/04/06/66117080f2460.png"
     },
     {
       "title": "Next.js App Router初体验与实践: 将我的博客迁移到Next.js App Router与React Server Components",
