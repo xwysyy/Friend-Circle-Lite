@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 105,
-    "active_num": 84,
-    "error_num": 21,
-    "article_num": 380,
-    "last_updated_time": "2024-12-03 20:42:16"
+    "active_num": 85,
+    "error_num": 20,
+    "article_num": 385,
+    "last_updated_time": "2024-12-04 02:28:14"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://blog.randench.cn/posts/59970/",
       "author": "RE Blog",
       "avatar": "https://cdn.qyliu.top/i/2024/11/19/673cb26cbdb2e.webp"
+    },
+    {
+      "title": "基于 llama.cpp 实现高性能本地大模型推理",
+      "created": "2024-12-04 00:57",
+      "link": "https://www.zouht.com/3835.html",
+      "author": "ChrisKim",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/27/667d880789765.webp"
     },
     {
       "title": "有线音箱改无线蓝牙音箱",
@@ -55,6 +62,13 @@
       "link": "https://blog.tianli0.top/posts/2024/Pytorch2",
       "author": "Tianli",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116950412cc.png"
+    },
+    {
+      "title": "朋友的 Vivado 和 Modelsim 装上了吗",
+      "created": "2024-12-03 08:00",
+      "link": "https://blog.zhilu.cyou/2024/vivado-modelsim-rescue",
+      "author": "纸鹿本鹿",
+      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
     },
     {
       "title": "rehype-autolink-headings Simple Version",
@@ -820,6 +834,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/11/18/673ac90233753.webp"
     },
     {
+      "title": "Halo-2.20 新特性：自定义登录页面模版",
+      "created": "2024-11-07 17:53",
+      "link": "https://blog.webjing.cn/archives/tQR8eG1g",
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
+    },
+    {
       "title": "风记星辰冬季壹言：朔风寒将至·冬日暖人心",
       "created": "2024-11-07 09:17",
       "link": "https://www.thyuu.com/78931",
@@ -1023,13 +1044,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/11/18/673ac90233753.webp"
     },
     {
-      "title": "给电脑新手的笔记本开荒指南导读",
-      "created": "2024-10-28 08:23",
-      "link": "https://blog.zhilu.cyou/2024/new-laptop-guide",
-      "author": "纸鹿本鹿",
-      "avatar": "https://cdn.qyliu.top/i/2024/06/02/665c869ded7cd.png"
-    },
-    {
       "title": "智云加速--JSDelivr国内公益加速镜像",
       "created": "2024-10-28 00:06",
       "link": "https://blog.liushen.fun/posts/cd89007e/",
@@ -1210,6 +1224,13 @@
       "link": "https://blog.qjqq.cn/posts/5240.html",
       "author": "青桔气球",
       "avatar": "https://cdn.qyliu.top/i/2024/04/07/661241402f02a.png"
+    },
+    {
+      "title": "vue3 中父子组件数据传输踩坑",
+      "created": "2024-10-18 19:21",
+      "link": "https://blog.webjing.cn/archives/8DZ3LQs9",
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "为你的Hexo博客添加Umami网站统计服务",
@@ -1441,6 +1462,13 @@
       "link": "https://www.qcqx.cn/article/f17dfea3.html",
       "author": "轻笑",
       "avatar": "https://cdn.qyliu.top/i/2024/05/31/6659628eddf20.png"
+    },
+    {
+      "title": "将你的服务运维面板从宝塔替换为1panel",
+      "created": "2024-09-26 13:29",
+      "link": "https://blog.webjing.cn/archives/JRrd51Ye",
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "快速获取GitHub个人资料成就徽章",
@@ -1926,6 +1954,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/03/31/66097a6d9363f.png"
     },
     {
+      "title": "Python实战项目：外星人入侵（源码分享）",
+      "created": "2024-08-02 14:33",
+      "link": "https://blog.webjing.cn/archives/mK0pfmcB",
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
+    },
+    {
       "title": "人没逝，感谢关心（咬牙切齿）",
       "created": "2024-08-01 18:46",
       "link": "https://blog.leonus.cn/2024/alive.html",
@@ -1947,13 +1982,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/05/24/66500d797ac38.png"
     },
     {
-      "title": "由“原神” 4.8 版本舆情引发的一些思考",
-      "created": "2024-07-26 02:11",
-      "link": "https://www.zouht.com/3769.html",
-      "author": "ChrisKim",
-      "avatar": "https://cdn.qyliu.top/i/2024/06/27/667d880789765.webp"
-    },
-    {
       "title": "哔哩哔哩视频下载方法大汇总",
       "created": "2024-07-23 20:59",
       "link": "https://gyhwd.top/archives/IuicnoX5",
@@ -1973,6 +2001,13 @@
       "link": "https://yuuu.org/post/34453.html",
       "author": "微霞",
       "avatar": "https://cdn.qyliu.top/i/2024/04/06/66116f0fe045d.png"
+    },
+    {
+      "title": "theme-hao主题适配友链自助提交插件",
+      "created": "2024-07-21 09:30",
+      "link": "https://blog.webjing.cn/archives/xMlRKBEd",
+      "author": "webjing",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/31/672397cb5cf03.webp"
     },
     {
       "title": "Riverpod - flutter 状态管理的应用",
