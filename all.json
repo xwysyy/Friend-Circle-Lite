@@ -1,12 +1,19 @@
 {
   "statistical_data": {
-    "friends_num": 110,
-    "active_num": 89,
+    "friends_num": 111,
+    "active_num": 90,
     "error_num": 21,
-    "article_num": 401,
-    "last_updated_time": "2024-12-11 20:42:57"
+    "article_num": 406,
+    "last_updated_time": "2024-12-12 02:30:37"
   },
   "article_data": [
+    {
+      "title": "随记：12月月考的自我分析",
+      "created": "2024-12-12 07:07",
+      "link": "https://www.iczrx.cn/archives/135/",
+      "author": "晚夜",
+      "avatar": "https://cdn.qyliu.top/i/2024/10/06/6702aa07d5bd8.webp"
+    },
     {
       "title": "汽车空调的使用：暖风和油耗",
       "created": "2024-12-11 21:45",
@@ -141,6 +148,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/11/27/6747341ba9c31.webp"
     },
     {
+      "title": "C++ 中类的内存大小分析与总结——sizeof",
+      "created": "2024-12-08 11:28",
+      "link": "https://www.seayj.cn/articles/26603de8/",
+      "author": "SeaEpoch",
+      "avatar": "https://cdn.qyliu.top/i/2024/11/10/672f8a9c7a5ba.webp"
+    },
+    {
       "title": "去掉UkeySoft Screen Recorder 8.0.0 弹窗",
       "created": "2024-12-08 10:12",
       "link": "https://h4ck.org.cn/2024/12/18738",
@@ -209,6 +223,13 @@
       "link": "https://blog.xing-ye.top/posts/9cc0e15/",
       "author": "XINGYE",
       "avatar": "https://cdn.qyliu.top/i/2024/05/18/6648b84c682e1.png"
+    },
+    {
+      "title": "局域网共享文件！chfsgui.exe使用教程",
+      "created": "2024-12-06 21:43",
+      "link": "http://exef-star.github.io/2024/12/06/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%EF%BC%81chfsgui-exe%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/",
+      "author": "可执行程序",
+      "avatar": "https://cdn.qyliu.top/i/2024/12/11/6759ad5cc86a3.webp"
     },
     {
       "title": "题解：CF1468C Berpizza",
@@ -673,13 +694,6 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/21/66249e0a775f8.png"
     },
     {
-      "title": "溶液中离子浓度大小比较-第一讲",
-      "created": "2024-11-23 08:01",
-      "link": "https://www.iczrx.cn/archives/130/",
-      "author": "晚夜",
-      "avatar": "https://cdn.qyliu.top/i/2024/10/06/6702aa07d5bd8.webp"
-    },
-    {
       "title": "新版本不蒜子统计平台使用说明",
       "created": "2024-11-23 00:00",
       "link": "https://dusays.com/771/",
@@ -797,6 +811,13 @@
       "link": "https://www.seayj.cn/articles/360b7110/",
       "author": "SeaEpoch",
       "avatar": "https://cdn.qyliu.top/i/2024/11/10/672f8a9c7a5ba.webp"
+    },
+    {
+      "title": "Minecraft资源包推荐，在视觉上变成《别人的世界》",
+      "created": "2024-11-17 16:22",
+      "link": "http://exef-star.github.io/2024/11/17/Minecraft%E8%B5%84%E6%BA%90%E5%8C%85%E6%8E%A8%E8%8D%90/",
+      "author": "可执行程序",
+      "avatar": "https://cdn.qyliu.top/i/2024/12/11/6759ad5cc86a3.webp"
     },
     {
       "title": "给侧边栏添加倒计时",
@@ -965,13 +986,6 @@
       "link": "https://xiangming.site/891.html",
       "author": "湘铭",
       "avatar": "https://cdn.qyliu.top/i/2024/04/19/6622928fc416c.png"
-    },
-    {
-      "title": "[AcWing]位运算(二进制的最后一个 1)",
-      "created": "2024-11-09 22:15",
-      "link": "https://www.seayj.cn/articles/9f470bbc/",
-      "author": "SeaEpoch",
-      "avatar": "https://cdn.qyliu.top/i/2024/11/10/672f8a9c7a5ba.webp"
     },
     {
       "title": "到货了，第一台mac到手",
@@ -1646,6 +1660,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/04/10/66164fd0e92b6.png"
     },
     {
+      "title": "[Python]配置Python+VSCode代码环境",
+      "created": "2024-09-22 20:34",
+      "link": "http://exef-star.github.io/2024/09/22/Python-%E9%85%8D%E7%BD%AEPython-VSCode%E4%BB%A3%E7%A0%81%E7%8E%AF%E5%A2%83/",
+      "author": "可执行程序",
+      "avatar": "https://cdn.qyliu.top/i/2024/12/11/6759ad5cc86a3.webp"
+    },
+    {
       "title": "如何优雅的截图",
       "created": "2024-09-22 09:30",
       "link": "https://blog.redish101.top/article/how-to-cap-screen",
@@ -1884,6 +1905,13 @@
       "avatar": "https://cdn.qyliu.top/i/2024/11/10/6730cc7ae8dca.webp"
     },
     {
+      "title": "[Python]折腾一下？自制文件夹加密程序",
+      "created": "2024-08-31 13:45",
+      "link": "http://exef-star.github.io/2024/08/31/Python-%E6%8A%98%E8%85%BE%E4%B8%80%E4%B8%8B-%E8%87%AA%E5%88%B6%E6%96%87%E4%BB%B6%E5%A4%B9%E5%8A%A0%E5%AF%86%E7%A8%8B%E5%BA%8F/",
+      "author": "可执行程序",
+      "avatar": "https://cdn.qyliu.top/i/2024/12/11/6759ad5cc86a3.webp"
+    },
+    {
       "title": "reblog: 使用 Go + Next.js重构我的博客",
       "created": "2024-08-30 15:02",
       "link": "https://blog.redish101.top/article/introduce-reblog",
@@ -1966,6 +1994,13 @@
       "link": "https://blog.365sites.top/article/2024-08-18-001",
       "author": "365云栈",
       "avatar": "https://cdn.qyliu.top/i/2024/08/02/66acf256da797.webp"
+    },
+    {
+      "title": "使用FittenCode来提升你的工作效率",
+      "created": "2024-08-17 19:58",
+      "link": "http://exef-star.github.io/2024/08/17/%E4%BD%BF%E7%94%A8FittenCode%E6%9D%A5%E6%8F%90%E5%8D%87%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87/",
+      "author": "可执行程序",
+      "avatar": "https://cdn.qyliu.top/i/2024/12/11/6759ad5cc86a3.webp"
     },
     {
       "title": "【GitHub】基于Actions和Pages实现项目的自动构建与部署",
